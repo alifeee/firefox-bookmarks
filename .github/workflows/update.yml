@@ -24,3 +24,21 @@ jobs:
           gist_id: ${{ secrets.GIST_ID }}
           file_path: bookmarks.json
           file_type: json
+
+  update-website:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Deploy to website
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: "bookmarks.json"
+          destination_repo: "alifeee/alifeee.github.io"
+          destination_folder: "bookmarks"
+          user_email: "alifeee.web@outlook.com"
+          user_name: "alifeee"
+          commit_message: "Update `bookmarks/bookmarks.json`"
