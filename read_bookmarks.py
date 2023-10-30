@@ -10,6 +10,8 @@ from typing import Optional
 import json
 
 DB_FILE = "places.sqlite"
+# YYYY-MM-DDTHH:mm:ss.sssZ
+DATE_FORMAT = "%Y-%m-%dT%H:%M:%S.%fZ"
 
 # moz_bookmarks table
 # CREATE TABLE moz_bookmarks (
@@ -144,7 +146,7 @@ if __name__ == "__main__":
                 print(f"Warning: Folder with title {asked_folder} not found.")
 
     data = {
-        "last_modified": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "last_modified": datetime.now().strftime(DATE_FORMAT),
         "bookmarks": {},
     }
 
@@ -157,10 +159,8 @@ if __name__ == "__main__":
                     {
                         "title": bookmark.title,
                         "url": bookmark.url,
-                        "date_added": bookmark.dateAdded.strftime("%Y-%m-%d %H:%M:%S"),
-                        "last_modified": bookmark.lastModified.strftime(
-                            "%Y-%m-%d %H:%M:%S"
-                        ),
+                        "date_added": bookmark.dateAdded.strftime(DATE_FORMAT),
+                        "last_modified": bookmark.lastModified.strftime(DATE_FORMAT),
                     }
                 )
                 counter += 1
