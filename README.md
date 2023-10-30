@@ -13,7 +13,7 @@ For my bookmarks, see <https://alifeee.co.uk/bookmarks/>
 Run [`read_bookmarks.py`](./read_bookmarks.py) with the bookmark folders you would like exported. For me, that's
 
 ```bash
-py .\read_bookmarks.py -f "personal websites" "Articles (random)"
+py .\read_bookmarks.py -f "personal websites" "Articles (random)" "Articles (programming)" "wordles"
 ```
 
 You now have `bookmarks.json` which can be used wherever it needs to be used.
