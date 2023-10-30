@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Example bookmarks</title>
+
+    <script src="//unpkg.com/alpinejs" defer></script>
+  </head>
+  <body
+    x-data="{data: {}}"
+    x-init="fetch('bookmarks.json')
+    .then((response) => response.json())
+    .then((json) => {
+      console.log(json);
+      data = json;
+    })"
+  >
+    <h1>Bookmarks!</h1>
+    <span>Last edited: <time x-text="data.last_modified"></time></span>
+    <template
+      x-for="(folder_contents, folder_name) in data.bookmarks"
+      :key="folder_name"
+    >
+      <div>
+        <h2 x-text="folder_name"></h2>
+        <ul>
+          <template x-for="bookmark in folder_contents" :key="bookmark.url">
+            <li>
+              <a :href="bookmark.url" target="_blank">
+                <span x-text="bookmark.title"></span>
+              </a>
+            </li>
+          </template>
+        </ul>
+      </div>
+    </template>
+  </body>
+  <script>
+    fetch("bookmarks.json")
+      .then((response) => response.json())
+      .then((data) => {});
+  </script>
+</html>

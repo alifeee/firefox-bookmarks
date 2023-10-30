@@ -1,0 +1,7 @@
+# data
+/places.sqlite
+/places.sqlite-shm
+/places.sqlite-wal
+
+# output
+/bookmarks.json
