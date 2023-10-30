@@ -154,7 +154,7 @@ if __name__ == "__main__":
     for folder in folders:
         folder_bookmarks = []
         for bookmark in bookmarks:
-            if bookmark.parent == folder.id:
+            if bookmark.parent == folder.id and bookmark.type == BookmarkType.BOOKMARK:
                 folder_bookmarks.append(
                     {
                         "title": bookmark.title,
