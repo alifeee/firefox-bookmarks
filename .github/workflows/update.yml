@@ -1,0 +1,26 @@
+# update the bookmarks.json gist and bookmarks.json on my website when bookmarks.json changes
+
+name: update remotes
+
+on:
+  push:
+    paths:
+      - "bookmarks.json"
+    branches:
+      - main
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Rename cv.json
+        run: mv cv.json resume.json
+      - name: Deploy to gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GIST_TOKEN }}
+          gist_id: ${{ secrets.GIST_ID }}
+          file_path: resume.json
+          file_type: json
