@@ -6,6 +6,8 @@ For my bookmarks, see <https://alifeee.co.uk/bookmarks/>
 
 ## To use
 
+In Firefox,
+
 1. Go to `about:support` (`Alt, H, T`)
 1. Open `Profile Folder`
 1. Copy `places.sqlite` to this repository
