@@ -150,6 +150,9 @@ if __name__ == "__main__":
         "bookmarks": {},
     }
 
+    # sort bookmarks by `position`
+    bookmarks.sort(key=lambda x: x.position)
+
     counter = 0
     for folder in folders:
         folder_bookmarks = []
