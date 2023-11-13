@@ -4,3 +4,6 @@
 /places.sqlite-wal
 
 # output
+
+# scripts
+/run.sh
