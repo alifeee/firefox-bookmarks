@@ -1,5 +1,5 @@
 {
-    "last_modified": "2023-11-25T13:31:41.245063Z",
+    "last_modified": "2023-11-25T13:32:32.442351Z",
     "bookmarks": {
         "TOP 10 personal websites/blogs": [
             {
@@ -437,6 +437,12 @@
                 "url": "https://chriskirknielsen.com/",
                 "date_added": "2023-11-24T21:10:47.556000Z",
                 "last_modified": "2023-11-24T21:10:47.556000Z"
+            },
+            {
+                "title": "Ross Wintle - Freelance technology, code and consultancy - Ross Wintle",
+                "url": "https://rosswintle.uk/",
+                "date_added": "2023-11-25T13:13:52.746000Z",
+                "last_modified": "2023-11-25T13:13:52.746000Z"
             }
         ],
         "personal websites (without blog)": [
@@ -955,6 +961,18 @@
                 "url": "https://dynomight.substack.com/p/midwit-home",
                 "date_added": "2023-10-12T17:31:55.193000Z",
                 "last_modified": "2023-10-30T23:30:24.100000Z"
+            },
+            {
+                "title": "Hang on, PHP IS a static site generator! - Ross Wintle",
+                "url": "https://rosswintle.uk/2021/12/hang-on-php-is-a-static-site-generator/",
+                "date_added": "2023-11-25T13:07:22.900000Z",
+                "last_modified": "2023-11-25T13:07:22.900000Z"
+            },
+            {
+                "title": "Why I love (and how I make) simple, static, minimal-tech websites - Ross Wintle",
+                "url": "https://rosswintle.uk/2022/08/why-i-love-and-how-i-make-simple-static-minimal-tech-websites/",
+                "date_added": "2023-11-25T13:10:37.119000Z",
+                "last_modified": "2023-11-25T13:10:37.119000Z"
             }
         ],
         "video playlists/channels": [
@@ -1319,6 +1337,12 @@
                 "url": "https://smegle.ganymede.tv/",
                 "date_added": "2023-11-17T01:45:42.927000Z",
                 "last_modified": "2023-11-17T22:23:13.000000Z"
+            },
+            {
+                "title": "WordlePress - a Wordle-style guessing game for WordPress developers",
+                "url": "https://wordlepress.com/",
+                "date_added": "2023-11-25T13:09:40.872000Z",
+                "last_modified": "2023-11-25T13:09:40.872000Z"
             }
         ],
         "mobile games": [
