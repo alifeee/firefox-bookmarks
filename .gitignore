@@ -4,6 +4,10 @@
 /places.sqlite-wal
 
 # output
+/index.html
 
 # scripts
 /run.sh
+
+# python
+/env

@@ -29,6 +29,17 @@ cp C:\Users\<user>\AppData\Roaming\Mozilla\Firefox\Profiles\<id>.default\places.
 py .\read_bookmarks.py ...
 ```
 
+## Build HTML
+
+I want this page to be static, so I don't want to make a "frontend" (something that would need to download and parse the JSON). So, here I just make a static `index.html` file to push to my website.
+
+```bash
+pip install -r requirements.txt
+py generate_html.py
+```
+
+It gets build to `index.html`.
+
 ## GitHub action
 
 The action [`update.yml`](./.github/workflows/update.yml) in this repository updates two things when a new `bookmarks.json` file is pushed.
