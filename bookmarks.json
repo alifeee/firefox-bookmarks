@@ -1,5 +1,5 @@
 {
-    "last_modified": "2024-01-21T14:25:55.830192Z",
+    "last_modified": "2024-02-18T22:53:42.217050Z",
     "bookmarks": {
         "TOP 10 personal websites/blogs": [
             {
@@ -69,6 +69,18 @@
                 "url": "https://www.marginalia.nu/links/bookmarks/",
                 "date_added": "2023-12-06T00:45:48.786000Z",
                 "last_modified": "2023-12-06T00:45:48.786000Z"
+            },
+            {
+                "title": "Links • Robb Knight",
+                "url": "https://rknight.me/links/",
+                "date_added": "2024-02-10T00:46:47.468000Z",
+                "last_modified": "2024-02-11T19:17:28.000000Z"
+            },
+            {
+                "title": "links",
+                "url": "https://nonnullish.pages.dev/links/",
+                "date_added": "2024-02-18T22:34:57.253000Z",
+                "last_modified": "2024-02-18T22:34:57.253000Z"
             }
         ],
         "webrings": [
@@ -589,6 +601,42 @@
                 "url": "http://akkartik.name/about",
                 "date_added": "2024-01-11T00:05:09.764000Z",
                 "last_modified": "2024-01-11T00:05:13.708000Z"
+            },
+            {
+                "title": "Philip Zastrow",
+                "url": "https://zastrow.co/",
+                "date_added": "2024-01-24T01:19:49.977000Z",
+                "last_modified": "2024-01-24T01:19:49.977000Z"
+            },
+            {
+                "title": "Andy Carter – Sheffield based software engineer",
+                "url": "https://andycarter.dev/",
+                "date_added": "2024-01-26T00:46:17.354000Z",
+                "last_modified": "2024-01-27T11:25:25.000000Z"
+            },
+            {
+                "title": "Caolan McMahon",
+                "url": "https://caolan.uk/",
+                "date_added": "2024-01-26T01:00:56.266000Z",
+                "last_modified": "2024-01-27T11:25:25.000000Z"
+            },
+            {
+                "title": "Anil Dash",
+                "url": "https://www.anildash.com/",
+                "date_added": "2024-02-10T00:48:25.420000Z",
+                "last_modified": "2024-02-11T19:17:28.000000Z"
+            },
+            {
+                "title": "Algorist",
+                "url": "https://www.algorist.co.uk/",
+                "date_added": "2024-02-12T20:33:22.247000Z",
+                "last_modified": "2024-02-12T22:02:48.000000Z"
+            },
+            {
+                "title": "Badcfe.org - too small to not fail",
+                "url": "https://badcfe.org/",
+                "date_added": "2024-02-12T20:40:41.069000Z",
+                "last_modified": "2024-02-12T22:02:48.000000Z"
             }
         ],
         "personal websites (without blog)": [
@@ -675,6 +723,12 @@
                 "url": "https://alex.dytry.ch/",
                 "date_added": "2023-12-13T22:49:03.404000Z",
                 "last_modified": "2023-12-13T22:49:03.404000Z"
+            },
+            {
+                "title": "sweetfish.site",
+                "url": "https://sweetfish.site/",
+                "date_added": "2024-02-14T23:11:37.454000Z",
+                "last_modified": "2024-02-14T23:11:37.454000Z"
             }
         ],
         "interesting websites": [
@@ -1093,6 +1147,24 @@
                 "url": "https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram",
                 "date_added": "2023-12-06T12:26:10.302000Z",
                 "last_modified": "2023-12-06T12:26:10.302000Z"
+            },
+            {
+                "title": "A Totally Objective Ranking of Every UK Local Authority Logo | by Robin Wilde | Medium",
+                "url": "https://robin-cg.medium.com/a-totally-objective-ranking-of-every-uk-local-authority-logo-b76e8f7efd5a",
+                "date_added": "2024-02-11T11:55:00.298000Z",
+                "last_modified": "2024-02-11T19:17:28.000000Z"
+            },
+            {
+                "title": "Todepond dot com",
+                "url": "https://www.todepond.com/wikiblogarden/social-media/para/activity/",
+                "date_added": "2024-02-14T23:21:53.291000Z",
+                "last_modified": "2024-02-14T23:21:53.291000Z"
+            },
+            {
+                "title": "Things Unexpectedly Named After People · Notes",
+                "url": "https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/",
+                "date_added": "2024-02-16T13:20:08.827000Z",
+                "last_modified": "2024-02-16T17:18:23.000000Z"
             }
         ],
         "Articles (programming)": [
@@ -1245,6 +1317,42 @@
                 "url": "https://stuffedwomb.at/the_small_game",
                 "date_added": "2024-01-11T00:03:11.378000Z",
                 "last_modified": "2024-01-11T00:03:11.378000Z"
+            },
+            {
+                "title": "Programming Sucks",
+                "url": "http://www.stilldrinking.org/programming-sucks",
+                "date_added": "2024-01-27T23:51:10.108000Z",
+                "last_modified": "2024-01-28T11:39:17.000000Z"
+            },
+            {
+                "title": "Making a PDF that’s larger than Germany – alexwlchan",
+                "url": "https://alexwlchan.net/2024/big-pdf/",
+                "date_added": "2024-02-01T00:19:58.930000Z",
+                "last_modified": "2024-02-01T00:19:58.930000Z"
+            },
+            {
+                "title": "Make a Damn Website",
+                "url": "https://lmnt.me/blog/make-a-damn-website.html",
+                "date_added": "2024-02-06T17:00:50.199000Z",
+                "last_modified": "2024-02-06T18:39:43.000000Z"
+            },
+            {
+                "title": "A dozen thoughts about AI | daverupert.com",
+                "url": "https://daverupert.com/2024/02/robo-barf/",
+                "date_added": "2024-02-16T13:54:11.875000Z",
+                "last_modified": "2024-02-16T17:18:23.000000Z"
+            },
+            {
+                "title": "I worry our Copilot is leaving some passengers behind - Josh Collinsworth blog",
+                "url": "https://joshcollinsworth.com/blog/copilot",
+                "date_added": "2024-02-16T13:54:24.963000Z",
+                "last_modified": "2024-02-16T17:18:23.000000Z"
+            },
+            {
+                "title": "A Deep Dive Into SVG Path Commands",
+                "url": "https://www.nan.fyi/svg-paths",
+                "date_added": "2024-02-18T22:48:15.022000Z",
+                "last_modified": "2024-02-18T22:48:15.022000Z"
             }
         ],
         "video playlists/channels": [
@@ -1633,6 +1741,24 @@
                 "url": "https://www.britannica.com/games/octordle/daily",
                 "date_added": "2024-01-01T14:24:36.753000Z",
                 "last_modified": "2024-01-01T14:53:49.000000Z"
+            },
+            {
+                "title": "Guess The Game",
+                "url": "https://guessthe.game/",
+                "date_added": "2024-02-11T21:40:19.265000Z",
+                "last_modified": "2024-02-11T21:40:19.265000Z"
+            },
+            {
+                "title": "Guess The Book - Your daily book guessing puzzle!",
+                "url": "https://guessthebook.app/",
+                "date_added": "2024-02-11T21:41:07.970000Z",
+                "last_modified": "2024-02-11T21:41:07.970000Z"
+            },
+            {
+                "title": "Bandle - Guess the song played by the band",
+                "url": "https://bandle.app/",
+                "date_added": "2024-02-12T18:44:52.505000Z",
+                "last_modified": "2024-02-12T22:02:48.000000Z"
             }
         ],
         "mobile games": [
