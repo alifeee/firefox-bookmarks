@@ -26,7 +26,7 @@
         <ul>
           <template x-for="bookmark in folder_contents" :key="bookmark.url">
             <li>
-              <a :href="bookmark.url" target="_blank">
+              <a :href="bookmark.url">
                 <span x-text="bookmark.title"></span>
               </a>
             </li>
