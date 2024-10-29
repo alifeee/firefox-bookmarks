@@ -163,7 +163,7 @@ if __name__ == "__main__":
                         "title": bookmark.title,
                         "url": bookmark.url,
                         "date_added": bookmark.dateAdded.strftime(DATE_FORMAT),
-                        "last_modified": bookmark.lastModified.strftime(DATE_FORMAT),
+                        # "last_modified": bookmark.lastModified.strftime(DATE_FORMAT),
                     }
                 )
                 counter += 1

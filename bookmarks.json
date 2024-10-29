@@ -1,2066 +1,1866 @@
 {
-    "last_modified": "2024-09-11T17:49:11.835817Z",
+    "last_modified": "2024-10-29T15:15:14.767456Z",
     "bookmarks": {
         "TOP 10 personal websites/blogs": [
             {
                 "title": "Tom Forth's Homepage",
                 "url": "https://www.tomforth.co.uk/",
-                "date_added": "2023-05-29T18:23:46.689000Z",
-                "last_modified": "2023-11-12T22:19:05.160000Z"
+                "date_added": "2023-05-29T18:23:46.689000Z"
             },
             {
                 "title": "nonnullish",
                 "url": "https://nonnullish.pages.dev/",
-                "date_added": "2023-09-12T15:53:49.290000Z",
-                "last_modified": "2023-11-12T22:19:28.376000Z"
+                "date_added": "2023-09-12T15:53:49.290000Z"
             },
             {
                 "title": "brr",
                 "url": "https://brr.fyi/",
-                "date_added": "2023-10-16T17:08:35.170000Z",
-                "last_modified": "2023-11-12T22:26:40.241000Z"
+                "date_added": "2023-10-16T17:08:35.170000Z"
             },
             {
                 "title": "tim hunkin home page",
                 "url": "https://www.timhunkin.com/",
-                "date_added": "2023-10-29T11:25:58.033000Z",
-                "last_modified": "2023-11-12T22:26:42.979000Z"
+                "date_added": "2023-10-29T11:25:58.033000Z"
             },
             {
                 "title": "Experimental History | Adam Mastroianni | Substack",
                 "url": "https://www.experimental-history.com/",
-                "date_added": "2023-11-12T22:49:13.615000Z",
-                "last_modified": "2023-11-12T22:49:23.209000Z"
+                "date_added": "2023-11-12T22:49:13.615000Z"
             },
             {
                 "title": "DYNOMIGHT INTERNET NEWSLETTER | Substack",
                 "url": "https://dynomight.substack.com/",
-                "date_added": "2023-11-12T22:49:16.319000Z",
-                "last_modified": "2023-11-12T22:49:28.143000Z"
+                "date_added": "2023-11-12T22:49:16.319000Z"
             },
             {
                 "title": "jedevc",
                 "url": "https://jedevc.com/",
-                "date_added": "2023-06-19T19:24:11.571000Z",
-                "last_modified": "2023-11-13T02:01:15.134000Z"
+                "date_added": "2023-06-19T19:24:11.571000Z"
             },
             {
                 "title": "Cameron's World",
                 "url": "https://www.cameronsworld.net/",
-                "date_added": "2023-08-24T18:48:52.668000Z",
-                "last_modified": "2023-11-13T02:01:34.902000Z"
+                "date_added": "2023-08-24T18:48:52.668000Z"
             },
             {
                 "title": "Vlad's Dating Profile",
                 "url": "https://vlad.roam.garden/Vlad's-Dating-Profile",
-                "date_added": "2023-11-12T22:37:20.046000Z",
-                "last_modified": "2023-11-13T02:01:42.361000Z"
+                "date_added": "2023-11-12T22:37:20.046000Z"
             },
             {
                 "title": "Healing Light Viseum",
                 "url": "http://helivium.com/",
-                "date_added": "2023-11-24T23:56:27.056000Z",
-                "last_modified": "2023-11-24T23:56:47.887000Z"
+                "date_added": "2023-11-24T23:56:27.056000Z"
             }
         ],
         "other bookmarks lists": [
             {
                 "title": "Bookmarks @ marginalia.nu",
                 "url": "https://www.marginalia.nu/links/bookmarks/",
-                "date_added": "2023-12-06T00:45:48.786000Z",
-                "last_modified": "2023-12-06T00:45:48.786000Z"
+                "date_added": "2023-12-06T00:45:48.786000Z"
             },
             {
                 "title": "Links • Robb Knight",
                 "url": "https://rknight.me/links/",
-                "date_added": "2024-02-10T00:46:47.468000Z",
-                "last_modified": "2024-02-11T19:17:28.000000Z"
+                "date_added": "2024-02-10T00:46:47.468000Z"
             },
             {
                 "title": "links",
                 "url": "https://nonnullish.pages.dev/links/",
-                "date_added": "2024-02-18T22:34:57.253000Z",
-                "last_modified": "2024-02-18T22:34:57.253000Z"
+                "date_added": "2024-02-18T22:34:57.253000Z"
             }
         ],
         "webrings": [
             {
                 "title": "alifeee's webring!",
                 "url": "https://webring.alifeee.co.uk/",
-                "date_added": "2023-11-25T13:20:56.292000Z",
-                "last_modified": "2023-11-25T13:20:56.292000Z"
+                "date_added": "2023-11-25T13:20:56.292000Z"
             },
             {
                 "title": "sike pona",
                 "url": "https://sike.pona.la/",
-                "date_added": "2023-11-25T12:29:51.310000Z",
-                "last_modified": "2023-11-25T13:30:15.605000Z"
+                "date_added": "2023-11-25T12:29:51.310000Z"
             },
             {
                 "title": "🌿 garlic 🧄 garden 🌿",
                 "url": "https://garlic.garden/onionring/",
-                "date_added": "2023-11-25T13:27:40.246000Z",
-                "last_modified": "2023-11-25T13:27:44.347000Z"
+                "date_added": "2023-11-25T13:27:40.246000Z"
             },
             {
                 "title": "The Beetle Ring - List of Member Sites",
                 "url": "http://www.naturalworlds.org/beetlering/beetle_sites.htm",
-                "date_added": "2023-11-25T10:57:03.174000Z",
-                "last_modified": "2023-11-25T13:20:58.730000Z"
+                "date_added": "2023-11-25T10:57:03.174000Z"
             },
             {
                 "title": "NeoSSG: A webring for Neocities sites made with static site generators",
                 "url": "https://neossg.neocities.org/",
-                "date_added": "2023-11-25T13:00:40.737000Z",
-                "last_modified": "2023-11-25T13:21:01.088000Z"
+                "date_added": "2023-11-25T13:00:40.737000Z"
             },
             {
                 "title": "Weird Wide Webring",
                 "url": "https://weirdwidewebring.net/",
-                "date_added": "2023-11-25T13:18:50.266000Z",
-                "last_modified": "2023-11-25T13:21:02.274000Z"
+                "date_added": "2023-11-25T13:18:50.266000Z"
             },
             {
                 "title": "null webring",
                 "url": "https://nuthead.neocities.org/ring/",
-                "date_added": "2023-11-25T13:20:37.936000Z",
-                "last_modified": "2023-11-25T13:21:03.285000Z"
+                "date_added": "2023-11-25T13:20:37.936000Z"
             },
             {
                 "title": "kulupu ko's Web site",
                 "url": "https://the-blob-system.neocities.org/mante_webring/webring",
-                "date_added": "2023-11-25T13:22:47.514000Z",
-                "last_modified": "2023-11-25T13:22:47.514000Z"
+                "date_added": "2023-11-25T13:22:47.514000Z"
             },
             {
                 "title": "furryring: the furry webring",
                 "url": "https://furryring.neocities.org/",
-                "date_added": "2023-11-25T13:23:35.602000Z",
-                "last_modified": "2023-11-25T13:23:35.602000Z"
+                "date_added": "2023-11-25T13:23:35.602000Z"
             },
             {
                 "title": "Hotline Webring",
                 "url": "https://hotlinewebring.club/",
-                "date_added": "2023-11-25T13:24:17.182000Z",
-                "last_modified": "2023-11-25T13:24:17.182000Z"
+                "date_added": "2023-11-25T13:24:17.182000Z"
             },
             {
                 "title": "bucket webring!",
                 "url": "https://webring.bucketfish.me/",
-                "date_added": "2023-11-25T13:24:46.976000Z",
-                "last_modified": "2023-11-25T13:24:46.976000Z"
+                "date_added": "2023-11-25T13:24:46.976000Z"
             },
             {
                 "title": "Webring",
                 "url": "https://webring.xxiivv.com/#arcade",
-                "date_added": "2023-12-03T23:51:41.991000Z",
-                "last_modified": "2023-12-04T10:35:20.000000Z"
+                "date_added": "2023-12-03T23:51:41.991000Z"
             },
             {
                 "title": "Webring",
                 "url": "https://webring.xxiivv.com/#random",
-                "date_added": "2023-12-06T00:36:51.800000Z",
-                "last_modified": "2023-12-06T00:36:51.800000Z"
+                "date_added": "2023-12-06T00:36:51.800000Z"
             },
             {
                 "title": "Tech makers",
                 "url": "https://webring.stavros.io/",
-                "date_added": "2024-01-06T12:18:56.793000Z",
-                "last_modified": "2024-01-08T12:24:38.000000Z"
+                "date_added": "2024-01-06T12:18:56.793000Z"
+            },
+            {
+                "title": "Directory | An IndieWeb Webring",
+                "url": "https://xn--sr8hvo.ws/directory",
+                "date_added": "2024-10-17T13:00:58.345000Z"
             }
         ],
         "personal websites (with blog)": [
             {
                 "title": "Ryan Mulligan",
                 "url": "https://ryanmulligan.dev/",
-                "date_added": "2023-05-14T21:36:04.463000Z",
-                "last_modified": "2023-05-14T21:36:16.250000Z"
+                "date_added": "2023-05-14T21:36:04.463000Z"
             },
             {
                 "title": "Tom Hazledine",
                 "url": "https://tomhazledine.com/",
-                "date_added": "2023-05-17T16:19:07.490000Z",
-                "last_modified": "2023-05-17T16:19:07.490000Z"
+                "date_added": "2023-05-17T16:19:07.490000Z"
             },
             {
                 "title": "Chun Fei Lung’s personal website | Chuniversiteit",
                 "url": "https://chuniversiteit.nl/",
-                "date_added": "2023-05-19T22:47:57.259000Z",
-                "last_modified": "2023-05-19T23:49:49.000000Z"
+                "date_added": "2023-05-19T22:47:57.259000Z"
             },
             {
                 "title": "Data Colada - Thinking about evidence and vice versa",
                 "url": "http://datacolada.org/",
-                "date_added": "2023-06-26T16:47:23.408000Z",
-                "last_modified": "2023-06-26T20:00:18.000000Z"
+                "date_added": "2023-06-26T16:47:23.408000Z"
             },
             {
                 "title": "Robin Price",
                 "url": "https://robinprice.net/",
-                "date_added": "2023-06-27T17:59:28.239000Z",
-                "last_modified": "2023-06-27T19:25:08.000000Z"
+                "date_added": "2023-06-27T17:59:28.239000Z"
             },
             {
                 "title": "blinry's homepage",
                 "url": "https://blinry.org/",
-                "date_added": "2023-06-28T18:21:14.596000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-06-28T18:21:14.596000Z"
             },
             {
                 "title": "Blog - JakeArchibald.com",
                 "url": "https://jakearchibald.com/",
-                "date_added": "2023-07-06T18:45:56.285000Z",
-                "last_modified": "2023-07-07T16:02:11.000000Z"
+                "date_added": "2023-07-06T18:45:56.285000Z"
             },
             {
                 "title": "Mind of a Hitchhiker",
                 "url": "https://mindofahitchhiker.com/",
-                "date_added": "2023-07-14T12:55:04.460000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-07-14T12:55:04.460000Z"
             },
             {
                 "title": "robmiles.com",
                 "url": "https://www.robmiles.com/",
-                "date_added": "2023-08-14T22:10:33.096000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-08-14T22:10:33.096000Z"
             },
             {
                 "title": "Adam Drake",
                 "url": "https://adamdrake.com/",
-                "date_added": "2023-08-22T16:27:41.417000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-08-22T16:27:41.417000Z"
             },
             {
                 "title": "Tims Curious Creations",
                 "url": "https://tholman.com/",
-                "date_added": "2023-08-24T23:50:30.472000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-08-24T23:50:30.472000Z"
             },
             {
                 "title": "Lathonez' Blog",
                 "url": "https://lathonez.com/",
-                "date_added": "2023-09-04T21:34:51.026000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-04T21:34:51.026000Z"
             },
             {
                 "title": "Open Source und Weblog von Tobias Leupold | nasauber.de",
                 "url": "https://nasauber.de/",
-                "date_added": "2023-09-04T23:12:32.365000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-04T23:12:32.365000Z"
             },
             {
                 "title": "James Cloos",
                 "url": "http://jhcloos.com/",
-                "date_added": "2023-09-07T00:23:04.990000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-07T00:23:04.990000Z"
             },
             {
                 "title": "unop",
                 "url": "https://unop.uk/",
-                "date_added": "2023-09-09T14:16:13.475000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-09T14:16:13.475000Z"
             },
             {
                 "title": "Russ Garrett",
                 "url": "https://russ.garrett.co.uk/",
-                "date_added": "2023-09-10T21:45:05.780000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-10T21:45:05.780000Z"
             },
             {
                 "title": "nutcroft",
                 "url": "https://nutcroft.com/",
-                "date_added": "2023-09-10T22:10:40.237000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-10T22:10:40.237000Z"
             },
             {
                 "title": "laymonage",
                 "url": "https://laymonage.com/",
-                "date_added": "2023-09-12T21:32:06.610000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-12T21:32:06.610000Z"
             },
             {
                 "title": "Roy Keyes",
                 "url": "https://roycoding.com/",
-                "date_added": "2023-09-13T01:16:31.310000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-13T01:16:31.310000Z"
             },
             {
                 "title": "Peter Noble | Personal portfolio. Code, film, theatre etc…",
                 "url": "https://peter-noble.github.io/",
-                "date_added": "2023-09-14T18:10:54.660000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-14T18:10:54.660000Z"
             },
             {
                 "title": "Webjeda",
                 "url": "https://webjeda.com/",
-                "date_added": "2023-09-14T18:20:18.840000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-14T18:20:18.840000Z"
             },
             {
                 "title": "Geoff Boeing – Urban planning and spatial analysis professor at USC",
                 "url": "https://geoffboeing.com/",
-                "date_added": "2023-09-16T13:10:47.878000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-16T13:10:47.878000Z"
             },
             {
                 "title": "Jamie Tanna | Software Engineer",
                 "url": "https://www.jvt.me/",
-                "date_added": "2023-09-17T22:10:14.188000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-17T22:10:14.188000Z"
             },
             {
                 "title": "Drew DeVault's blog",
                 "url": "https://drewdevault.com/",
-                "date_added": "2023-09-25T12:37:44.243000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-25T12:37:44.243000Z"
             },
             {
                 "title": "Asia Lakay",
                 "url": "https://www.asialakay.net/",
-                "date_added": "2023-09-26T11:02:49.654000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-26T11:02:49.654000Z"
             },
             {
                 "title": "Pierre Palatin's corner - Random posts about some stuff I've been doing.",
                 "url": "https://pierre.palatin.fr/",
-                "date_added": "2023-09-26T15:14:47.232000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-26T15:14:47.232000Z"
             },
             {
                 "title": "plocki.org - Linux und so...",
                 "url": "https://plocki.org/archive.html",
-                "date_added": "2023-09-26T13:37:07.873000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-26T13:37:07.873000Z"
             },
             {
                 "title": "Tanishq K.: TK's website",
                 "url": "https://tanishqkancharla.dev/",
-                "date_added": "2023-10-01T14:29:13.059000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-01T14:29:13.059000Z"
             },
             {
                 "title": "Hillel Wayne",
                 "url": "https://hillelwayne.com/",
-                "date_added": "2023-10-02T21:11:11.266000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-02T21:11:11.266000Z"
             },
             {
                 "title": "evelyn masso - evelyn masso",
                 "url": "https://outofambit.format.com/",
-                "date_added": "2023-10-03T14:16:56.608000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-03T14:16:56.608000Z"
             },
             {
                 "title": "Vitalik Buterin's website",
                 "url": "https://vitalik.ca/",
-                "date_added": "2023-10-05T17:17:59.133000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-05T17:17:59.133000Z"
             },
             {
                 "title": "David Kemp",
                 "url": "https://www.davidkemp.uk.com/",
-                "date_added": "2023-10-05T23:16:42.117000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-05T23:16:42.117000Z"
             },
             {
                 "title": "Hugo ʕ•ᴥ•ʔ Bear Blog | Hugo ʕ•ᴥ•ʔ Bear Blog",
                 "url": "https://ash7.io/",
-                "date_added": "2023-10-08T16:58:53.371000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-08T16:58:53.371000Z"
             },
             {
                 "title": "Jonathan Dallas",
                 "url": "https://jwdallas.com/",
-                "date_added": "2023-10-11T21:11:22.651000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-11T21:11:22.651000Z"
             },
             {
                 "title": "Adam Stoddard - generalist designer & creative technologist",
                 "url": "https://aaadaaam.com/",
-                "date_added": "2023-10-11T21:15:35.194000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-11T21:15:35.194000Z"
             },
             {
                 "title": "Vlad Sitalo",
                 "url": "https://sitalo.org/",
-                "date_added": "2023-10-12T21:49:17.268000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-10-12T21:49:17.268000Z"
             },
             {
                 "title": "Max Böck",
                 "url": "https://mxb.dev/",
-                "date_added": "2023-10-16T23:51:49.674000Z",
-                "last_modified": "2023-10-16T23:51:49.674000Z"
+                "date_added": "2023-10-16T23:51:49.674000Z"
             },
             {
                 "title": "AJ's Blog",
                 "url": "https://ajenkins.me/",
-                "date_added": "2023-10-25T22:21:15.036000Z",
-                "last_modified": "2023-10-25T22:21:15.036000Z"
+                "date_added": "2023-10-25T22:21:15.036000Z"
             },
             {
                 "title": "taylor.town",
                 "url": "https://taylor.town/",
-                "date_added": "2023-10-26T13:36:22.733000Z",
-                "last_modified": "2023-10-26T13:36:22.733000Z"
+                "date_added": "2023-10-26T13:36:22.733000Z"
             },
             {
                 "title": "blogs.hn",
                 "url": "https://blogs.hn/",
-                "date_added": "2023-10-26T13:38:14.060000Z",
-                "last_modified": "2023-10-26T13:38:14.060000Z"
+                "date_added": "2023-10-26T13:38:14.060000Z"
             },
             {
                 "title": "JRE’s Project Blog | A place to talk about my projects",
                 "url": "https://josepheoff.github.io/",
-                "date_added": "2023-10-26T17:19:17.225000Z",
-                "last_modified": "2023-10-26T17:19:17.225000Z"
+                "date_added": "2023-10-26T17:19:17.225000Z"
             },
             {
                 "title": "XXIIVV — home",
                 "url": "https://wiki.xxiivv.com/site/home.html",
-                "date_added": "2023-10-28T02:06:09.851000Z",
-                "last_modified": "2023-10-28T11:57:18.000000Z"
+                "date_added": "2023-10-28T02:06:09.851000Z"
             },
             {
                 "title": "Todd Wolfson - Blog",
                 "url": "https://twolfson.com/",
-                "date_added": "2023-10-30T21:02:44.218000Z",
-                "last_modified": "2023-10-30T21:02:44.218000Z"
+                "date_added": "2023-10-30T21:02:44.218000Z"
             },
             {
                 "title": "gregsite - Welcome!",
                 "url": "https://gregdan3.dev/",
-                "date_added": "2023-11-12T18:11:50.327000Z",
-                "last_modified": "2023-11-12T18:11:50.327000Z"
+                "date_added": "2023-11-12T18:11:50.327000Z"
             },
             {
                 "title": "Tom Murphy 7's Invincible Web Page",
                 "url": "http://tom7.org/",
-                "date_added": "2023-08-27T18:03:21.419000Z",
-                "last_modified": "2023-11-13T02:01:55.437000Z"
+                "date_added": "2023-08-27T18:03:21.419000Z"
             },
             {
                 "title": "meyerweb.com",
                 "url": "https://meyerweb.com/",
-                "date_added": "2023-11-15T12:06:43.989000Z",
-                "last_modified": "2023-11-15T12:06:43.989000Z"
+                "date_added": "2023-11-15T12:06:43.989000Z"
             },
             {
                 "title": "Home | Rach Smith's digital garden",
                 "url": "https://rachsmith.com/",
-                "date_added": "2023-11-15T15:31:43.745000Z",
-                "last_modified": "2023-11-15T15:31:43.745000Z"
+                "date_added": "2023-11-15T15:31:43.745000Z"
             },
             {
                 "title": "ngadev // Neil Gary Allen - Web Developer",
                 "url": "https://neilgaryallen.dev/",
-                "date_added": "2023-11-16T13:37:47.771000Z",
-                "last_modified": "2023-11-17T22:23:13.000000Z"
+                "date_added": "2023-11-16T13:37:47.771000Z"
             },
             {
                 "title": "arp242.net",
                 "url": "https://www.arp242.net/",
-                "date_added": "2023-11-23T09:25:17.465000Z",
-                "last_modified": "2023-11-23T20:00:04.000000Z"
+                "date_added": "2023-11-23T09:25:17.465000Z"
             },
             {
                 "title": "iliana.fyi",
                 "url": "https://iliana.fyi/",
-                "date_added": "2023-11-24T20:43:00.539000Z",
-                "last_modified": "2023-11-24T20:43:00.539000Z"
+                "date_added": "2023-11-24T20:43:00.539000Z"
             },
             {
                 "title": "Home | chriskirknielsen",
                 "url": "https://chriskirknielsen.com/",
-                "date_added": "2023-11-24T21:10:47.556000Z",
-                "last_modified": "2023-11-24T21:10:47.556000Z"
+                "date_added": "2023-11-24T21:10:47.556000Z"
             },
             {
                 "title": "Ross Wintle - Freelance technology, code and consultancy - Ross Wintle",
                 "url": "https://rosswintle.uk/",
-                "date_added": "2023-11-25T13:13:52.746000Z",
-                "last_modified": "2023-11-25T13:13:52.746000Z"
+                "date_added": "2023-11-25T13:13:52.746000Z"
             },
             {
                 "title": "Peter Hicks' Blog – The personal blog of Peter Hicks",
                 "url": "https://blog.poggs.com/",
-                "date_added": "2023-11-26T02:01:07.422000Z",
-                "last_modified": "2023-11-26T02:01:07.422000Z"
+                "date_added": "2023-11-26T02:01:07.422000Z"
             },
             {
                 "title": "Tim McCormack | Brain on Fire",
                 "url": "https://www.brainonfire.net/",
-                "date_added": "2023-11-27T19:22:20.053000Z",
-                "last_modified": "2023-11-27T19:22:20.053000Z"
+                "date_added": "2023-11-27T19:22:20.053000Z"
             },
             {
                 "title": "Read the Tea Leaves | Software and other dark arts, by Nolan Lawson",
                 "url": "https://nolanlawson.com/",
-                "date_added": "2023-12-02T22:41:33.145000Z",
-                "last_modified": "2023-12-02T22:41:33.145000Z"
+                "date_added": "2023-12-02T22:41:33.145000Z"
             },
             {
                 "title": "CSS { In Real Life }",
                 "url": "https://css-irl.info/",
-                "date_added": "2023-12-04T15:11:24.055000Z",
-                "last_modified": "2023-12-04T15:11:24.055000Z"
+                "date_added": "2023-12-04T15:11:24.055000Z"
             },
             {
                 "title": "Simon Hearne",
                 "url": "https://simonhearne.com/",
-                "date_added": "2023-12-04T15:11:31.636000Z",
-                "last_modified": "2023-12-04T15:11:31.636000Z"
+                "date_added": "2023-12-04T15:11:31.636000Z"
             },
             {
                 "title": "I Build Things — Chris McLeod",
                 "url": "https://chrismcleod.dev/",
-                "date_added": "2023-12-04T15:12:44.800000Z",
-                "last_modified": "2023-12-04T15:12:44.800000Z"
+                "date_added": "2023-12-04T15:12:44.800000Z"
             },
             {
                 "title": "theunderground.blog",
                 "url": "https://theunderground.blog/",
-                "date_added": "2023-12-04T15:15:00.662000Z",
-                "last_modified": "2023-12-04T15:15:00.662000Z"
+                "date_added": "2023-12-04T15:15:00.662000Z"
             },
             {
                 "title": "DevCafe",
                 "url": "https://dev-cafe.github.io/",
-                "date_added": "2023-12-04T20:53:33.234000Z",
-                "last_modified": "2023-12-04T20:53:33.234000Z"
+                "date_added": "2023-12-04T20:53:33.234000Z"
             },
             {
                 "title": "EO & DA Ramblings",
                 "url": "https://jgomezdans.github.io/",
-                "date_added": "2023-12-04T23:32:47.974000Z",
-                "last_modified": "2023-12-05T12:20:02.000000Z"
+                "date_added": "2023-12-04T23:32:47.974000Z"
             },
             {
                 "title": "www.marginalia.nu @ marginalia.nu",
                 "url": "https://www.marginalia.nu/",
-                "date_added": "2023-12-06T00:31:16.639000Z",
-                "last_modified": "2023-12-06T00:31:16.639000Z"
+                "date_added": "2023-12-06T00:31:16.639000Z"
             },
             {
                 "title": "eta.st",
                 "url": "https://eta.st/",
-                "date_added": "2023-12-06T12:10:19.125000Z",
-                "last_modified": "2023-12-06T12:10:19.125000Z"
+                "date_added": "2023-12-06T12:10:19.125000Z"
             },
             {
                 "title": "Harley Watson",
                 "url": "https://lobi.to/",
-                "date_added": "2023-12-06T12:12:16.534000Z",
-                "last_modified": "2023-12-06T12:12:16.534000Z"
+                "date_added": "2023-12-06T12:12:16.534000Z"
             },
             {
                 "title": "the mango zone",
                 "url": "https://mango.pdf.zone/",
-                "date_added": "2023-12-06T12:30:14.826000Z",
-                "last_modified": "2023-12-06T12:30:14.826000Z"
+                "date_added": "2023-12-06T12:30:14.826000Z"
             },
             {
                 "title": "Luke's Letters",
                 "url": "https://ekulrf.github.io/lukes-letters/",
-                "date_added": "2023-12-09T23:46:26.839000Z",
-                "last_modified": "2023-12-09T23:46:26.839000Z"
+                "date_added": "2023-12-09T23:46:26.839000Z"
             },
             {
                 "title": "Raymond Camden",
                 "url": "https://www.raymondcamden.com/",
-                "date_added": "2023-12-10T00:16:44.785000Z",
-                "last_modified": "2023-12-10T00:16:44.785000Z"
+                "date_added": "2023-12-10T00:16:44.785000Z"
             },
             {
                 "title": "Hi, I'm Jayesh Bhoot",
                 "url": "https://jysh.net/",
-                "date_added": "2023-12-13T18:32:12.085000Z",
-                "last_modified": "2023-12-13T18:32:12.085000Z"
+                "date_added": "2023-12-13T18:32:12.085000Z"
             },
             {
                 "title": "Frame Notes",
                 "url": "http://frame-notes.blogspot.com/",
-                "date_added": "2024-01-01T20:10:04.040000Z",
-                "last_modified": "2024-01-02T20:34:20.000000Z"
+                "date_added": "2024-01-01T20:10:04.040000Z"
             },
             {
                 "title": "Alex Cabal",
                 "url": "https://alexcabal.com/",
-                "date_added": "2024-01-04T21:57:22.245000Z",
-                "last_modified": "2024-01-04T23:14:53.000000Z"
+                "date_added": "2024-01-04T21:57:22.245000Z"
             },
             {
                 "title": "Stuffed Wombat",
                 "url": "https://stuffedwomb.at/index",
-                "date_added": "2024-01-08T16:56:50.383000Z",
-                "last_modified": "2024-01-08T16:56:50.383000Z"
+                "date_added": "2024-01-08T16:56:50.383000Z"
             },
             {
                 "title": "Kartik Agaram",
                 "url": "http://akkartik.name/about",
-                "date_added": "2024-01-11T00:05:09.764000Z",
-                "last_modified": "2024-01-11T00:05:13.708000Z"
+                "date_added": "2024-01-11T00:05:09.764000Z"
             },
             {
                 "title": "Philip Zastrow",
                 "url": "https://zastrow.co/",
-                "date_added": "2024-01-24T01:19:49.977000Z",
-                "last_modified": "2024-01-24T01:19:49.977000Z"
+                "date_added": "2024-01-24T01:19:49.977000Z"
             },
             {
                 "title": "Andy Carter – Sheffield based software engineer",
                 "url": "https://andycarter.dev/",
-                "date_added": "2024-01-26T00:46:17.354000Z",
-                "last_modified": "2024-01-27T11:25:25.000000Z"
+                "date_added": "2024-01-26T00:46:17.354000Z"
             },
             {
                 "title": "Caolan McMahon",
                 "url": "https://caolan.uk/",
-                "date_added": "2024-01-26T01:00:56.266000Z",
-                "last_modified": "2024-01-27T11:25:25.000000Z"
+                "date_added": "2024-01-26T01:00:56.266000Z"
             },
             {
                 "title": "Anil Dash",
                 "url": "https://www.anildash.com/",
-                "date_added": "2024-02-10T00:48:25.420000Z",
-                "last_modified": "2024-02-11T19:17:28.000000Z"
+                "date_added": "2024-02-10T00:48:25.420000Z"
             },
             {
                 "title": "Algorist",
                 "url": "https://www.algorist.co.uk/",
-                "date_added": "2024-02-12T20:33:22.247000Z",
-                "last_modified": "2024-02-12T22:02:48.000000Z"
+                "date_added": "2024-02-12T20:33:22.247000Z"
             },
             {
                 "title": "Badcfe.org - too small to not fail",
                 "url": "https://badcfe.org/",
-                "date_added": "2024-02-12T20:40:41.069000Z",
-                "last_modified": "2024-02-12T22:02:48.000000Z"
+                "date_added": "2024-02-12T20:40:41.069000Z"
             },
             {
                 "title": "kaimac.org",
-                "url": "https://kaimac.org/",
-                "date_added": "2024-03-31T19:20:29.618000Z",
-                "last_modified": "2024-03-31T22:29:20.000000Z"
+                "url": "http://kaimac.org/",
+                "date_added": "2024-03-31T19:20:29.618000Z"
             },
             {
                 "title": "https://home.octetfont.com/blog/",
                 "url": "https://home.octetfont.com/blog/",
-                "date_added": "2024-04-04T14:44:33.986000Z",
-                "last_modified": "2024-04-04T14:44:33.986000Z"
+                "date_added": "2024-04-04T14:44:33.986000Z"
             },
             {
                 "title": "Hugh Barnard – Computing for Social Change",
                 "url": "https://hughbarnard.org/",
-                "date_added": "2024-04-06T12:41:02.820000Z",
-                "last_modified": "2024-04-06T13:16:25.000000Z"
+                "date_added": "2024-04-06T12:41:02.820000Z"
             },
             {
                 "title": "Arne Bahlo",
                 "url": "https://arne.me/",
-                "date_added": "2024-04-09T12:28:16.133000Z",
-                "last_modified": "2024-04-12T10:43:05.000000Z"
+                "date_added": "2024-04-09T12:28:16.133000Z"
             },
             {
                 "title": "proto",
                 "url": "https://proto.garden/",
-                "date_added": "2024-04-09T12:53:03.219000Z",
-                "last_modified": "2024-04-12T10:43:05.000000Z"
+                "date_added": "2024-04-09T12:53:03.219000Z"
             },
             {
                 "title": "Blain Smith",
                 "url": "https://blainsmith.com/",
-                "date_added": "2024-04-09T13:11:08.138000Z",
-                "last_modified": "2024-04-12T10:43:05.000000Z"
+                "date_added": "2024-04-09T13:11:08.138000Z"
             },
             {
                 "title": "Denis Defreyne",
                 "url": "https://denisdefreyne.com/",
-                "date_added": "2024-04-09T20:12:52.678000Z",
-                "last_modified": "2024-04-12T10:43:05.000000Z"
+                "date_added": "2024-04-09T20:12:52.678000Z"
             },
             {
                 "title": "Home - Frills",
                 "url": "https://frills.dev/",
-                "date_added": "2024-04-09T20:15:34.441000Z",
-                "last_modified": "2024-04-12T10:43:05.000000Z"
+                "date_added": "2024-04-09T20:15:34.441000Z"
             },
             {
                 "title": "Les contributions de Paul Glagla | Paul Glagla's contributions",
                 "url": "https://paulglagla.com/en/",
-                "date_added": "2024-04-21T16:55:50.123000Z",
-                "last_modified": "2024-04-21T16:55:50.123000Z"
+                "date_added": "2024-04-21T16:55:50.123000Z"
             },
             {
                 "title": "Kestral @ Tildeverse",
                 "url": "https://tilde.green/~kestral/",
-                "date_added": "2024-06-03T11:47:03.810000Z",
-                "last_modified": "2024-06-06T21:19:55.000000Z"
+                "date_added": "2024-06-03T11:47:03.810000Z"
             },
             {
                 "title": "hello! | nicole@web",
                 "url": "https://ntietz.com/",
-                "date_added": "2024-06-17T13:11:55.704000Z",
-                "last_modified": "2024-06-17T22:08:01.000000Z"
+                "date_added": "2024-06-17T13:11:55.704000Z"
             },
             {
                 "title": "Ellie huxtable",
                 "url": "https://ellie.wtf/",
-                "date_added": "2024-06-18T17:34:34.267000Z",
-                "last_modified": "2024-06-18T19:47:52.000000Z"
+                "date_added": "2024-06-18T17:34:34.267000Z"
             },
             {
                 "title": "Alex Paul Kelly - AI: The Catalyst of the 4th Industrial transformation",
                 "url": "https://alexkelly.world/",
-                "date_added": "2024-07-25T09:57:09.368000Z",
-                "last_modified": "2024-07-25T21:50:09.000000Z"
+                "date_added": "2024-07-25T09:57:09.368000Z"
             },
             {
                 "title": "David \"Novalis\" Turner",
                 "url": "https://novalis.org/",
-                "date_added": "2024-09-10T13:23:00.167000Z",
-                "last_modified": "2024-09-11T08:42:53.000000Z"
+                "date_added": "2024-09-10T13:23:00.167000Z"
+            },
+            {
+                "title": "Jimmy miller",
+                "url": "https://jimmyhmiller.github.io/",
+                "date_added": "2024-09-24T21:07:09.624000Z"
+            },
+            {
+                "title": "Home - Left Fold",
+                "url": "https://www.leftfold.tech/",
+                "date_added": "2024-09-30T15:14:27.132000Z"
+            },
+            {
+                "title": "Midnight Reading: Renkon's Personal Site",
+                "url": "https://renkotsuban.com/",
+                "date_added": "2024-10-07T09:05:01.458000Z"
+            },
+            {
+                "title": "Robert Birming",
+                "url": "https://birming.com/",
+                "date_added": "2024-10-08T18:09:33.583000Z"
+            },
+            {
+                "title": "Oh Hello Ana - Blog",
+                "url": "https://ohhelloana.blog/",
+                "date_added": "2024-10-17T13:01:13.263000Z"
+            },
+            {
+                "title": "Jens Oliver Meiert · Frontend Engineering Leader and Tech Author/Publisher",
+                "url": "https://meiert.com/en/",
+                "date_added": "2024-10-25T10:18:23.085000Z"
+            },
+            {
+                "title": "Blog . Ahmad Alfy",
+                "url": "https://alfy.blog/",
+                "date_added": "2024-10-25T11:11:23.411000Z"
             }
         ],
         "personal websites (without blog)": [
             {
                 "title": "Alex Adler",
                 "url": "https://alex-adler.github.io/",
-                "date_added": "2023-03-29T23:26:22.425000Z",
-                "last_modified": "2023-11-12T22:31:29.841000Z"
+                "date_added": "2023-03-29T23:26:22.425000Z"
             },
             {
                 "title": "Des polices de caracteres a Gogo !!!",
                 "url": "http://clofont.free.fr/",
-                "date_added": "2023-08-05T12:28:22.408000Z",
-                "last_modified": "2023-11-12T22:32:00.757000Z"
+                "date_added": "2023-08-05T12:28:22.408000Z"
             },
             {
                 "title": "Daniel Flanagan",
                 "url": "https://daniel-flanagan.com/",
-                "date_added": "2023-08-09T20:39:28.998000Z",
-                "last_modified": "2023-11-12T22:32:42.813000Z"
+                "date_added": "2023-08-09T20:39:28.998000Z"
             },
             {
                 "title": "Philipp Gortan's Homepage",
                 "url": "https://gortan.org/",
-                "date_added": "2023-10-02T15:27:28.406000Z",
-                "last_modified": "2023-11-12T22:35:03.833000Z"
+                "date_added": "2023-10-02T15:27:28.406000Z"
             },
             {
                 "title": "The Mark Vigeant Web Ring",
                 "url": "http://markvigeant.directory/",
-                "date_added": "2023-10-16T23:59:47.794000Z",
-                "last_modified": "2023-11-12T22:41:21.635000Z"
+                "date_added": "2023-10-16T23:59:47.794000Z"
             },
             {
                 "title": "Toni Buckby",
                 "url": "https://tonibuckby.com/",
-                "date_added": "2023-10-25T01:25:06.625000Z",
-                "last_modified": "2023-11-12T22:43:00.014000Z"
+                "date_added": "2023-10-25T01:25:06.625000Z"
             },
             {
                 "title": "The Web Site of Cobyzaby",
                 "url": "https://cobyzaby.neocities.org/",
-                "date_added": "2023-10-17T00:50:02.242000Z",
-                "last_modified": "2023-11-12T22:49:43.866000Z"
+                "date_added": "2023-10-17T00:50:02.242000Z"
             },
             {
                 "title": "Paul Chaplin: Frontend/fullstack web development",
                 "url": "https://paulchaplin.com/",
-                "date_added": "2023-11-15T12:06:24.961000Z",
-                "last_modified": "2023-11-15T12:06:24.961000Z"
+                "date_added": "2023-11-15T12:06:24.961000Z"
             },
             {
                 "title": "✧･maria･✧",
                 "url": "https://maria.town/",
-                "date_added": "2023-11-24T01:14:46.271000Z",
-                "last_modified": "2023-11-24T18:24:51.000000Z"
+                "date_added": "2023-11-24T01:14:46.271000Z"
             },
             {
                 "title": "Aya Stead - Personal Porfolio",
                 "url": "https://ayaspace.co.uk/",
-                "date_added": "2023-11-24T21:25:29.919000Z",
-                "last_modified": "2023-11-24T21:25:29.919000Z"
+                "date_added": "2023-11-24T21:25:29.919000Z"
             },
             {
                 "title": "Erich Friedman",
                 "url": "https://erich-friedman.github.io/",
-                "date_added": "2023-07-26T09:29:22.706000Z",
-                "last_modified": "2023-11-24T23:57:23.389000Z"
+                "date_added": "2023-07-26T09:29:22.706000Z"
             },
             {
                 "title": "index: aethopica",
                 "url": "https://arcades.agency/index.html",
-                "date_added": "2023-12-03T23:52:52.280000Z",
-                "last_modified": "2023-12-04T10:35:20.000000Z"
+                "date_added": "2023-12-03T23:52:52.280000Z"
             },
             {
                 "title": "Julius Tarng — Independent Software Creative",
                 "url": "https://tarng.com/",
-                "date_added": "2023-12-06T01:36:59.265000Z",
-                "last_modified": "2023-12-06T01:37:10.479000Z"
+                "date_added": "2023-12-06T01:36:59.265000Z"
             },
             {
                 "title": "Alex Dytrych",
                 "url": "https://alex.dytry.ch/",
-                "date_added": "2023-12-13T22:49:03.404000Z",
-                "last_modified": "2023-12-13T22:49:03.404000Z"
+                "date_added": "2023-12-13T22:49:03.404000Z"
             },
             {
                 "title": "sweetfish.site",
                 "url": "https://sweetfish.site/",
-                "date_added": "2024-02-14T23:11:37.454000Z",
-                "last_modified": "2024-02-14T23:11:37.454000Z"
+                "date_added": "2024-02-14T23:11:37.454000Z"
             },
             {
                 "title": "Jeff Milling's Website",
                 "url": "https://jeffdude.github.io/",
-                "date_added": "2024-03-20T13:46:29.726000Z",
-                "last_modified": "2024-03-20T18:03:21.000000Z"
+                "date_added": "2024-03-20T13:46:29.726000Z"
             },
             {
                 "title": "v21",
                 "url": "https://v21.io/",
-                "date_added": "2024-03-29T12:10:59.937000Z",
-                "last_modified": "2024-03-29T13:27:40.000000Z"
+                "date_added": "2024-03-29T12:10:59.937000Z"
             },
             {
                 "title": "Seif 🌍 World",
                 "url": "https://seif.world/",
-                "date_added": "2024-03-30T02:29:35.888000Z",
-                "last_modified": "2024-03-30T18:44:56.000000Z"
+                "date_added": "2024-03-30T02:29:35.888000Z"
             },
             {
                 "title": "Richard Oliver Bray – Christian, web developer, game developer, content creator, open source contributor",
                 "url": "https://robray.dev/",
-                "date_added": "2024-04-25T19:22:50.180000Z",
-                "last_modified": "2024-04-28T17:36:28.000000Z"
+                "date_added": "2024-04-25T19:22:50.180000Z"
             },
             {
                 "title": "sohalt.net",
                 "url": "https://soha.lt/",
-                "date_added": "2024-06-28T19:12:05.674000Z",
-                "last_modified": "2024-06-28T20:15:37.000000Z"
+                "date_added": "2024-06-28T19:12:05.674000Z"
             },
             {
                 "title": "Chet Ramey's Home Page",
                 "url": "https://tiswww.case.edu/php/chet/",
-                "date_added": "2024-07-31T12:15:34.038000Z",
-                "last_modified": "2024-07-31T12:15:34.038000Z"
+                "date_added": "2024-07-31T12:15:34.038000Z"
             },
             {
                 "title": "Mouse Reeve",
                 "url": "https://www.mousereeve.com/",
-                "date_added": "2024-09-01T14:32:53.015000Z",
-                "last_modified": "2024-09-02T10:35:08.000000Z"
+                "date_added": "2024-09-01T14:32:53.015000Z"
+            },
+            {
+                "title": "Sam Auber",
+                "url": "https://dicemaster5.github.io/website/",
+                "date_added": "2024-09-13T10:15:13.313000Z"
+            },
+            {
+                "title": "Stuffed Wombat",
+                "url": "http://stuffedwomb.at/",
+                "date_added": "2024-10-10T09:15:11.688000Z"
+            },
+            {
+                "title": "Ken Rudolph's Home Page",
+                "url": "https://kenru.net/index.html",
+                "date_added": "2024-10-16T21:58:38.104000Z"
+            },
+            {
+                "title": "petrapixel",
+                "url": "https://petrapixel.neocities.org/",
+                "date_added": "2024-10-17T14:08:27.079000Z"
+            },
+            {
+                "title": "Tyler Slamkowski",
+                "url": "https://shingi345.angelfire.com/homepagepersonalsite.htm",
+                "date_added": "2024-10-23T11:37:14.890000Z"
+            },
+            {
+                "title": "Carl W. Knopf Site: Carl W. Knopf Jr. Website",
+                "url": "https://carlwk.typepad.com/",
+                "date_added": "2024-10-23T11:42:00.798000Z"
+            },
+            {
+                "title": "Doc Meek",
+                "url": "https://docmeek.com/",
+                "date_added": "2024-10-23T11:46:34.130000Z"
+            },
+            {
+                "title": "n0madz profile",
+                "url": "https://n0madz.omg.lol/",
+                "date_added": "2024-10-23T13:28:35.237000Z"
             }
         ],
         "interesting websites": [
             {
                 "title": "OpenBenches Welcome!",
                 "url": "https://openbenches.org/",
-                "date_added": "2023-11-12T16:28:46.915000Z",
-                "last_modified": "2023-11-12T16:52:24.000000Z"
+                "date_added": "2023-11-12T16:28:46.915000Z"
             },
             {
                 "title": "Cool Space Things",
                 "url": "https://coolspacethings.neocities.org/",
-                "date_added": "2023-11-12T18:15:05.210000Z",
-                "last_modified": "2023-11-12T18:15:05.210000Z"
+                "date_added": "2023-11-12T18:15:05.210000Z"
             },
             {
                 "title": "LilyPond – Music notation for everyone",
                 "url": "http://lilypond.org/",
-                "date_added": "2023-11-12T18:17:00.329000Z",
-                "last_modified": "2023-11-12T18:17:00.329000Z"
+                "date_added": "2023-11-12T18:17:00.329000Z"
             },
             {
                 "title": "Cat-v.org Random Contrarian Insurgent Organization",
                 "url": "http://cat-v.org/",
-                "date_added": "2023-09-09T14:52:47.833000Z",
-                "last_modified": "2023-11-12T22:33:08.433000Z"
+                "date_added": "2023-09-09T14:52:47.833000Z"
             },
             {
                 "title": "Random book",
                 "url": "https://www.goodreads.com/book/random",
-                "date_added": "2023-02-22T12:59:21.984000Z",
-                "last_modified": "2023-11-12T22:50:07.056000Z"
+                "date_added": "2023-02-22T12:59:21.984000Z"
             },
             {
                 "title": "Diggers and Dreamers – Intentional Community in Britain",
                 "url": "https://diggersanddreamers.org.uk/",
-                "date_added": "2023-09-03T11:54:08.603000Z",
-                "last_modified": "2023-11-12T22:50:40.339000Z"
+                "date_added": "2023-09-03T11:54:08.603000Z"
             },
             {
                 "title": "IMDb Ratings: Movies Higher Lower Game | Stattogories",
                 "url": "https://stattogories.com/imdb/ratings-movies.html",
-                "date_added": "2022-05-19T22:35:28.801000Z",
-                "last_modified": "2023-11-12T22:51:58.662000Z"
+                "date_added": "2022-05-19T22:35:28.801000Z"
             },
             {
                 "title": "Nobody.live | Lonely streams and streamers with zero viewers",
                 "url": "https://nobody.live/",
-                "date_added": "2022-05-19T00:38:41.664000Z",
-                "last_modified": "2023-11-12T22:52:26.811000Z"
+                "date_added": "2022-05-19T00:38:41.664000Z"
             },
             {
                 "title": "Watch TV live now on the web | free and easy",
                 "url": "https://ukfree.tv/channels/live",
-                "date_added": "2021-11-07T12:30:41.404000Z",
-                "last_modified": "2023-11-12T22:56:05.336000Z"
+                "date_added": "2021-11-07T12:30:41.404000Z"
             },
             {
                 "title": "Hanabi · Play Hanabi online with friends!",
                 "url": "https://hanabi.cards/",
-                "date_added": "2021-04-28T20:58:27.275000Z",
-                "last_modified": "2023-11-12T22:56:15.977000Z"
+                "date_added": "2021-04-28T20:58:27.275000Z"
             },
             {
                 "title": "Atlas Obscura - Curious and Wondrous Travel Destinations",
                 "url": "https://www.atlasobscura.com/",
-                "date_added": "2021-09-02T10:37:52.310000Z",
-                "last_modified": "2023-11-12T22:56:23.902000Z"
+                "date_added": "2021-09-02T10:37:52.310000Z"
             },
             {
                 "title": "Python Graph Gallery",
                 "url": "https://www.python-graph-gallery.com/",
-                "date_added": "2021-07-08T22:31:13.663000Z",
-                "last_modified": "2023-11-12T22:57:49.934000Z"
+                "date_added": "2021-07-08T22:31:13.663000Z"
             },
             {
                 "title": "SteamCompanion",
                 "url": "https://steamcompanion.com/compare",
-                "date_added": "2023-02-09T22:09:51.863000Z",
-                "last_modified": "2023-11-12T22:59:43.242000Z"
+                "date_added": "2023-02-09T22:09:51.863000Z"
             },
             {
                 "title": "3D Pipes Screensaver",
                 "url": "https://1j01.github.io/pipes/",
-                "date_added": "2021-06-22T20:02:20.390000Z",
-                "last_modified": "2023-11-12T22:59:51.179000Z"
+                "date_added": "2021-06-22T20:02:20.390000Z"
             },
             {
                 "title": "Based on a *True* True Story? — Information is Beautiful",
                 "url": "https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/",
-                "date_added": "2018-08-26T19:32:50.757000Z",
-                "last_modified": "2023-11-12T23:01:37.173000Z"
+                "date_added": "2018-08-26T19:32:50.757000Z"
             },
             {
                 "title": "The Phrontistery: Obscure Words and Vocabulary Resources",
                 "url": "http://phrontistery.info/index.html",
-                "date_added": "2017-09-21T22:54:36.511000Z",
-                "last_modified": "2023-11-12T23:04:25.338000Z"
+                "date_added": "2017-09-21T22:54:36.511000Z"
             },
             {
                 "title": "What To Watch On Streaming - A Good Movie To Watch",
                 "url": "https://agoodmovietowatch.com/",
-                "date_added": "2023-11-12T23:04:58.808000Z",
-                "last_modified": "2023-11-12T23:04:58.808000Z"
+                "date_added": "2023-11-12T23:04:58.808000Z"
             },
             {
                 "title": "Lipstick - Stacy Greene",
                 "url": "https://stacygreene.com/projects/lipstick",
-                "date_added": "2023-11-20T10:33:12.547000Z",
-                "last_modified": "2023-11-20T12:08:42.000000Z"
+                "date_added": "2023-11-20T10:33:12.547000Z"
             },
             {
                 "title": "Runestone Futhark | chriskirknielsen",
                 "url": "https://chriskirknielsen.com/projects/runestone-futhark/",
-                "date_added": "2023-11-24T21:15:05.695000Z",
-                "last_modified": "2023-11-24T21:15:05.695000Z"
+                "date_added": "2023-11-24T21:15:05.695000Z"
             },
             {
                 "title": "Infraphil Viseum",
                 "url": "http://www.infraphil.info/",
-                "date_added": "2023-11-24T23:16:53.917000Z",
-                "last_modified": "2023-11-24T23:16:53.917000Z"
+                "date_added": "2023-11-24T23:16:53.917000Z"
             },
             {
                 "title": "The Signal Box – EVERYTHING ABOUT BRITISH RAILWAY SIGNALLING",
                 "url": "https://signalbox.org/",
-                "date_added": "2023-11-26T01:28:40.859000Z",
-                "last_modified": "2023-11-26T01:28:40.859000Z"
+                "date_added": "2023-11-26T01:28:40.859000Z"
             },
             {
                 "title": "Learn X in Y Minutes: Scenic Programming Language Tours",
                 "url": "https://learnxinyminutes.com/",
-                "date_added": "2023-11-27T20:24:49.010000Z",
-                "last_modified": "2023-11-27T20:24:49.010000Z"
+                "date_added": "2023-11-27T20:24:49.010000Z"
             },
             {
                 "title": "paste",
                 "url": "https://topaz.github.io/paste/",
-                "date_added": "2023-12-02T19:18:42.321000Z",
-                "last_modified": "2023-12-02T19:18:42.321000Z"
+                "date_added": "2023-12-02T19:18:42.321000Z"
             },
             {
                 "title": "Markup from hell - HTMHell",
                 "url": "https://www.htmhell.dev/",
-                "date_added": "2023-12-04T15:19:07.669000Z",
-                "last_modified": "2023-12-04T15:19:07.669000Z"
+                "date_added": "2023-12-04T15:19:07.669000Z"
             },
             {
                 "title": "Marginalia Search",
                 "url": "https://search.marginalia.nu/",
-                "date_added": "2023-12-06T00:29:17.553000Z",
-                "last_modified": "2023-12-06T00:29:17.553000Z"
+                "date_added": "2023-12-06T00:29:17.553000Z"
             },
             {
                 "title": "RSP6 decoder",
                 "url": "https://eta.st/tickets/",
-                "date_added": "2023-12-06T12:36:58.339000Z",
-                "last_modified": "2023-12-06T12:36:58.339000Z"
+                "date_added": "2023-12-06T12:36:58.339000Z"
             },
             {
                 "title": "Unicode progress bars",
                 "url": "http://changaco.oy.lc/unicode-progress-bars/",
-                "date_added": "2023-12-06T17:16:29.371000Z",
-                "last_modified": "2023-12-06T18:05:24.000000Z"
+                "date_added": "2023-12-06T17:16:29.371000Z"
             },
             {
                 "title": "The Cheap Web",
                 "url": "https://potato.cheap/",
-                "date_added": "2023-12-18T22:26:25.639000Z",
-                "last_modified": "2023-12-18T23:02:13.000000Z"
+                "date_added": "2023-12-18T22:26:25.639000Z"
             },
             {
                 "title": "When Can I Reuse This Calendar?",
                 "url": "https://whencanireusethiscalendar.com/",
-                "date_added": "2023-12-27T15:21:06.574000Z",
-                "last_modified": "2023-12-27T15:21:06.574000Z"
+                "date_added": "2023-12-27T15:21:06.574000Z"
             },
             {
                 "title": "Animating with Clip-Path | CSS-Tricks - CSS-Tricks",
                 "url": "https://css-tricks.com/animating-with-clip-path/",
-                "date_added": "2023-12-31T00:58:12.981000Z",
-                "last_modified": "2023-12-31T00:58:12.981000Z"
+                "date_added": "2023-12-31T00:58:12.981000Z"
             },
             {
                 "title": "LÖVE - Free 2D Game Engine",
                 "url": "https://love2d.org/",
-                "date_added": "2024-01-11T00:30:09.529000Z",
-                "last_modified": "2024-01-11T00:30:09.529000Z"
+                "date_added": "2024-01-11T00:30:09.529000Z"
             },
             {
                 "title": "Website Carbon Calculator v3 | What's your site's carbon footprint?",
                 "url": "https://www.websitecarbon.com/",
-                "date_added": "2024-03-26T20:36:39.653000Z",
-                "last_modified": "2024-03-26T20:36:39.653000Z"
+                "date_added": "2024-03-26T20:36:39.653000Z"
             },
             {
                 "title": "Wiby - Search Engine for the Classic Web",
                 "url": "https://wiby.me/",
-                "date_added": "2024-04-06T03:59:08.028000Z",
-                "last_modified": "2024-04-06T03:59:08.028000Z"
+                "date_added": "2024-04-06T03:59:08.028000Z"
             },
             {
                 "title": "the HOLOTYPIC OCCLUPANID RESEARCH GROUP",
                 "url": "https://www.horg.com/",
-                "date_added": "2024-05-13T16:19:08.742000Z",
-                "last_modified": "2024-05-14T19:46:12.000000Z"
+                "date_added": "2024-05-13T16:19:08.742000Z"
             },
             {
                 "title": "Tiny Toolkits",
                 "url": "https://tinytoolk.it/",
-                "date_added": "2024-06-08T12:34:46.604000Z",
-                "last_modified": "2024-06-08T20:02:48.000000Z"
+                "date_added": "2024-06-08T12:34:46.604000Z"
             },
             {
                 "title": "Button Wall",
                 "url": "https://buttonwall.neocities.org/",
-                "date_added": "2024-08-27T12:58:28.027000Z",
-                "last_modified": "2024-08-27T12:58:28.027000Z"
-            },
-            {
-                "title": "QR Code Generator – Julian Fietkau",
-                "url": "https://fietkau.software/qr",
-                "date_added": "2024-08-31T22:04:10.760000Z",
-                "last_modified": "2024-09-02T10:35:08.000000Z"
+                "date_added": "2024-08-27T12:58:28.027000Z"
             },
             {
                 "title": "Radio stream URL search engine",
                 "url": "https://streamurl.link/",
-                "date_added": "2024-09-03T12:00:25.214000Z",
-                "last_modified": "2024-09-03T12:00:25.214000Z"
+                "date_added": "2024-09-03T12:00:25.214000Z"
             },
             {
                 "title": "switching.software | Ethical, easy-to-use and privacy-conscious alternatives to well-known software",
                 "url": "https://switching.software/",
-                "date_added": "2024-09-04T22:58:39.151000Z",
-                "last_modified": "2024-09-05T13:51:30.000000Z"
+                "date_added": "2024-09-04T22:58:39.151000Z"
+            },
+            {
+                "title": "Marigold Town: a web hosting provider with a small-town vibe",
+                "url": "https://marigold.town/",
+                "date_added": "2024-10-01T07:10:51.008000Z"
+            },
+            {
+                "title": "Harlan Ellison Webderland: Home Page",
+                "url": "http://harlanellison.com/home.htm",
+                "date_added": "2024-10-06T23:34:31.937000Z"
+            },
+            {
+                "title": "Scribe",
+                "url": "https://scribe.rip/",
+                "date_added": "2024-10-07T15:30:48.748000Z"
+            },
+            {
+                "title": "blinkie maker | generate blinkie gifs with custom text!",
+                "url": "https://blinkies.cafe/",
+                "date_added": "2024-10-09T21:29:34.733000Z"
+            },
+            {
+                "title": "HTML for People",
+                "url": "https://htmlforpeople.com/",
+                "date_added": "2024-10-11T11:47:51.584000Z"
+            },
+            {
+                "title": "Urinal Dot Net",
+                "url": "https://urinal.net/",
+                "date_added": "2024-10-16T17:18:24.568000Z"
+            },
+            {
+                "title": "Encyclopedia of Organ Stops",
+                "url": "http://www.organstops.org/",
+                "date_added": "2024-10-23T12:49:39.077000Z"
             }
         ],
         "Articles (random)": [
             {
                 "title": "Trouble in Paradise | Vanity Fair",
                 "url": "https://www.vanityfair.com/news/2008/01/pitcairn200801",
-                "date_added": "2020-04-24T19:41:44.153000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2020-04-24T19:41:44.153000Z"
             },
             {
                 "title": "Why Experts Make Bad Teachers. We’d all agree that to teach a subject… | by Charles Scalfani | Medium",
                 "url": "https://medium.com/@cscalfani/why-experts-make-bad-teachers-ccaed2df029b",
-                "date_added": "2020-08-26T13:59:36.982000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2020-08-26T13:59:36.982000Z"
             },
             {
                 "title": "An Alien in Our Sea: A look at the intelligence of an octopus - University of Edinburgh's Science Magazine",
                 "url": "https://eusci.org.uk/2020/06/22/an-alien-in-our-sea-a-look-at-the-intelligence-of-an-octopus/",
-                "date_added": "2021-09-01T18:43:40.595000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2021-09-01T18:43:40.595000Z"
             },
             {
                 "title": "Highest falls survived without a parachute - Wikipedia",
                 "url": "https://en.m.wikipedia.org/wiki/Highest_falls_survived_without_a_parachute",
-                "date_added": "2021-10-31T18:29:37.278000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2021-10-31T18:29:37.278000Z"
             },
             {
                 "title": "Last Exit From The Secret Sea — BASE Magazine",
                 "url": "https://www.base-mag.com/explore/last-exit-from-the-secret-sea-caving-exploration-veryovnika",
-                "date_added": "2021-10-31T18:29:50.107000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2021-10-31T18:29:50.107000Z"
             },
             {
                 "title": "Kursk submarine disaster - Wikipedia",
                 "url": "https://en.m.wikipedia.org/wiki/Kursk_submarine_disaster",
-                "date_added": "2021-10-31T18:29:53.174000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2021-10-31T18:29:53.174000Z"
             },
             {
                 "title": "Upright Bikes - Sit Up and Enjoy the Ride | Momentum Mag",
                 "url": "https://momentummag.com/upright-bikes-sit-up-and-enjoy-the-ride/",
-                "date_added": "2021-10-31T19:28:49.854000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2021-10-31T19:28:49.854000Z"
             },
             {
                 "title": "When Astronomers Chased a Total Eclipse in a Concorde",
                 "url": "https://www.vice.com/en/article/8q8qwk/the-concorde-and-the-longest-solar-eclipse",
-                "date_added": "2022-02-11T08:33:31.744000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-02-11T08:33:31.744000Z"
             },
             {
                 "title": "The Knowhere Guide",
                 "url": "https://knowhere.co.uk/",
-                "date_added": "2022-03-12T12:43:14.808000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-03-12T12:43:14.808000Z"
             },
             {
                 "title": "Deciphering The Man Behind Ontario’s Bean Puzzle Tombstone – LADY LATITUDES",
                 "url": "https://ladylatitudes.ca/2021/02/16/deciphering-the-man-behind-ontarios-bean-puzzle-tombstone/",
-                "date_added": "2022-03-19T21:11:32.611000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-03-19T21:11:32.611000Z"
             },
             {
                 "title": "Oyacachi – aka the Coldest Place on the Equator, Ever | Big Trip",
                 "url": "https://rtwferrer.wordpress.com/2010/08/19/oyacachi-aka-the-coldest-place-on-the-equator-ever/",
-                "date_added": "2022-03-19T21:09:40.744000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-03-19T21:09:40.744000Z"
             },
             {
                 "title": "Men Abandoned Male Birth Control Breakthrough Because of Side Effects? | Snopes.com",
                 "url": "https://www.snopes.com/fact-check/male-birth-control-study/",
-                "date_added": "2022-04-07T13:53:11.096000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-04-07T13:53:11.096000Z"
             },
             {
                 "title": "The Great Blading Bubble: How Toxic Masculinity Inflated and Burst Aggressive Inline | by Toldandretold | Medium",
                 "url": "https://toldandretold1.medium.com/the-great-blading-bubble-how-toxic-masculinity-inflated-and-burst-aggressive-inline-4313e4930714",
-                "date_added": "2022-04-09T19:08:57.200000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-04-09T19:08:57.200000Z"
             },
             {
                 "title": "What Is The Internet Doing To Boomers’ Brains? | HuffPost UK Politics",
                 "url": "https://www.huffingtonpost.co.uk/entry/internet-baby-boomers-misinformation-social-media_n_5f998039c5b6a4a2dc813d3d",
-                "date_added": "2022-04-11T12:11:43.203000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-04-11T12:11:43.203000Z"
             },
             {
                 "title": "The Documentary - Moondog: Sound of New York - BBC Sounds",
                 "url": "https://www.bbc.co.uk/sounds/play/w3cszz68",
-                "date_added": "2022-04-27T16:30:22.516000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-04-27T16:30:22.516000Z"
             },
             {
                 "title": "The weird and true story of Moondog",
                 "url": "https://www.macleans.ca/culture/the-weird-and-true-story-of-moondog/",
-                "date_added": "2022-04-27T16:30:33.137000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-04-27T16:30:33.120000Z"
             },
             {
                 "title": "Horizontal History — Wait But Why",
                 "url": "https://waitbutwhy.com/2016/01/horizontal-history.html",
-                "date_added": "2022-05-26T15:05:00.884000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-05-26T15:05:00.884000Z"
             },
             {
                 "title": "Alexandria Ocasio-Cortez, video games, and the new online town square | Ars Technica",
                 "url": "https://arstechnica.com/gaming/2019/01/alexandria-ocasio-cortez-video-games-and-the-new-online-town-square/",
-                "date_added": "2022-06-07T16:32:13.957000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-06-07T16:32:13.957000Z"
             },
             {
                 "title": "The Journalist and the Pharma Bro",
                 "url": "https://www.elle.com/life-love/a35021224/martin-shkreli-christie-smythe-pharma-bro-journalist/",
-                "date_added": "2022-06-27T19:29:35.124000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-06-27T19:29:35.124000Z"
             },
             {
                 "title": "Why Women Aren't Welcome on the Internet - Pacific Standard",
                 "url": "https://psmag.com/social-justice/women-arent-welcome-internet-72170",
-                "date_added": "2022-07-15T12:07:35.408000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-07-15T12:07:35.408000Z"
             },
             {
                 "title": "Are These Impressive Facts About Birmingham Actually True?",
                 "url": "https://theculturetrip.com/europe/united-kingdom/england/articles/are-these-impressive-facts-about-birmingham-actually-true/",
-                "date_added": "2022-09-01T09:51:43.966000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2022-09-01T09:51:43.966000Z"
             },
             {
                 "title": "The drama in trying to convert election PDFs to Spreadsheets - Mark Essien",
                 "url": "https://markessien.com/posts/drama_of_transcription/",
-                "date_added": "2023-03-29T01:44:46.431000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-03-29T01:44:46.431000Z"
             },
             {
                 "title": "My stack will outlive yours",
                 "url": "https://blog.steren.fr/2020/my-stack-will-outlive-yours/",
-                "date_added": "2023-04-06T13:50:56.233000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-04-06T13:50:56.233000Z"
             },
             {
                 "title": "North England vs. The Netherlands.",
                 "url": "https://www.tomforth.co.uk/northernlands/",
-                "date_added": "2023-05-29T18:15:14.598000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-05-29T18:15:14.598000Z"
             },
             {
                 "title": "Moondog: Sound of New York - BBC Sounds",
                 "url": "https://www.bbc.co.uk/sounds/play/b0b48wq9",
-                "date_added": "2022-06-12T14:40:36.819000Z",
-                "last_modified": "2023-11-12T22:27:57.599000Z"
+                "date_added": "2022-06-12T14:40:36.819000Z"
             },
             {
                 "title": "The plot against Mercia - UnHerd",
                 "url": "https://unherd.com/2020/09/the-plot-against-mercia/#:~:text=The%201956%20West%20Midlands%20Plan,focused%20on%20the%20motor%20industry.",
-                "date_added": "2023-05-29T17:43:04.625000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-05-29T17:43:04.625000Z"
             },
             {
                 "title": "So you want to invent a nuclear weapon",
                 "url": "https://dynomight.net/nukes/?utm_source=substack&utm_medium=email",
-                "date_added": "2023-06-14T23:25:34.128000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-06-14T23:25:34.128000Z"
             },
             {
                 "title": "82: Roller Skating Ultra Distances – 1885 Six Days | Ultrarunning History",
                 "url": "https://ultrarunninghistory.com/roller-skating/",
-                "date_added": "2023-06-20T11:59:59.606000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-06-20T11:59:59.606000Z"
             },
             {
                 "title": "Greater London Industrial Archaeology Society",
                 "url": "http://www.glias.org.uk/index.htm",
-                "date_added": "2023-08-05T12:28:51.360000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-08-05T12:28:51.360000Z"
             },
             {
                 "title": "Playing With My Son - Waxy.org",
                 "url": "https://waxy.org/2014/12/playing-with-my-son/",
-                "date_added": "2023-09-02T23:47:18.256000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-09-02T23:47:18.256000Z"
             },
             {
                 "title": "South Pole Signage",
                 "url": "https://brr.fyi/posts/south-pole-signage",
-                "date_added": "2023-10-16T17:04:57.551000Z",
-                "last_modified": "2023-10-16T21:29:33.000000Z"
+                "date_added": "2023-10-16T17:04:57.551000Z"
             },
             {
                 "title": "We've never even tried",
                 "url": "https://tomforth.co.uk/wenevertried/",
-                "date_added": "2023-10-18T01:43:08.956000Z",
-                "last_modified": "2023-10-18T13:22:20.000000Z"
+                "date_added": "2023-10-18T01:43:08.956000Z"
             },
             {
                 "title": "What happened when we offered Free Hugs to people",
                 "url": "https://blinry.org/free-hugs/",
-                "date_added": "2023-06-28T18:20:08.734000Z",
-                "last_modified": "2023-10-30T23:30:18.732000Z"
+                "date_added": "2023-06-28T18:20:08.734000Z"
             },
             {
                 "title": "What's so great about tunnel man?",
                 "url": "https://dynomight.substack.com/p/tunnel-man",
-                "date_added": "2023-11-11T21:49:56.017000Z",
-                "last_modified": "2023-11-11T21:49:56.017000Z"
+                "date_added": "2023-11-11T21:49:56.017000Z"
             },
             {
                 "title": "Excuse me but why are you eating so many frogs",
                 "url": "https://www.experimental-history.com/p/excuse-me-but-why-are-you-eating",
-                "date_added": "2023-11-12T12:09:22.409000Z",
-                "last_modified": "2023-11-12T16:52:24.000000Z"
+                "date_added": "2023-11-12T12:09:22.409000Z"
             },
             {
                 "title": "7 Reasons why I don't write | Max Böck",
                 "url": "https://mxb.dev/blog/seven-reasons-why-i-dont-write/",
-                "date_added": "2023-11-13T01:56:31.378000Z",
-                "last_modified": "2023-11-13T01:56:31.378000Z"
+                "date_added": "2023-11-13T01:56:31.378000Z"
             },
             {
                 "title": "Words To Avoid in Educational Writing | CSS-Tricks - CSS-Tricks",
                 "url": "https://css-tricks.com/words-avoid-educational-writing/",
-                "date_added": "2023-11-27T20:15:15.311000Z",
-                "last_modified": "2023-11-27T20:15:15.311000Z"
+                "date_added": "2023-11-27T20:15:15.311000Z"
             },
             {
                 "title": "When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number",
                 "url": "https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram",
-                "date_added": "2023-12-06T12:26:10.302000Z",
-                "last_modified": "2023-12-06T12:26:10.302000Z"
+                "date_added": "2023-12-06T12:26:10.302000Z"
             },
             {
                 "title": "A Totally Objective Ranking of Every UK Local Authority Logo | by Robin Wilde | Medium",
                 "url": "https://robin-cg.medium.com/a-totally-objective-ranking-of-every-uk-local-authority-logo-b76e8f7efd5a",
-                "date_added": "2024-02-11T11:55:00.298000Z",
-                "last_modified": "2024-02-11T19:17:28.000000Z"
+                "date_added": "2024-02-11T11:55:00.298000Z"
             },
             {
                 "title": "Todepond dot com",
                 "url": "https://www.todepond.com/wikiblogarden/social-media/para/activity/",
-                "date_added": "2024-02-14T23:21:53.291000Z",
-                "last_modified": "2024-02-14T23:21:53.291000Z"
+                "date_added": "2024-02-14T23:21:53.291000Z"
             },
             {
                 "title": "Things Unexpectedly Named After People · Notes",
                 "url": "https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/",
-                "date_added": "2024-02-16T13:20:08.827000Z",
-                "last_modified": "2024-02-16T17:18:23.000000Z"
+                "date_added": "2024-02-16T13:20:08.827000Z"
             },
             {
                 "title": "Startling differences between humans and jukeboxes",
                 "url": "https://www.experimental-history.com/p/startling-differences-between-humans",
-                "date_added": "2024-04-02T20:23:09.636000Z",
-                "last_modified": "2024-04-02T20:23:09.636000Z"
+                "date_added": "2024-04-02T20:23:09.636000Z"
             },
             {
                 "title": "The Deaths of Effective Altruism | WIRED",
                 "url": "https://www.wired.com/story/deaths-of-effective-altruism/",
-                "date_added": "2024-04-04T20:12:24.493000Z",
-                "last_modified": "2024-04-04T20:12:24.493000Z"
+                "date_added": "2024-04-04T20:12:24.493000Z"
             },
             {
                 "title": "goodbye-engagement.pdf",
                 "url": "https://hughbarnard.org/wp-content/uploads/2023/07/goodbye-engagement.pdf",
-                "date_added": "2024-04-08T11:59:06.424000Z",
-                "last_modified": "2024-04-08T17:50:38.000000Z"
+                "date_added": "2024-04-08T11:59:06.424000Z"
             },
             {
                 "title": "Pluralistic: Podcasting “Capitalists Hate Capitalism” (18 Apr 2024) – Pluralistic: Daily links from Cory Doctorow",
                 "url": "https://pluralistic.net/2024/04/18/in-extremis-veritas/",
-                "date_added": "2024-04-19T10:35:14.071000Z",
-                "last_modified": "2024-04-19T10:52:01.000000Z"
+                "date_added": "2024-04-19T10:35:14.071000Z"
             },
             {
                 "title": "Modular origami – Polypompholyx",
                 "url": "https://www.polypompholyx.com/2017/01/modularorigami/",
-                "date_added": "2024-07-18T12:31:59.824000Z",
-                "last_modified": "2024-07-18T12:31:59.824000Z"
+                "date_added": "2024-07-18T12:31:59.824000Z"
+            },
+            {
+                "title": "Cory Doctorow: Moneylike – Locus Online",
+                "url": "https://locusmag.com/2022/09/cory-doctorow-moneylike/",
+                "date_added": "2024-10-12T21:45:09.558000Z"
             }
         ],
         "Articles (programming)": [
             {
                 "title": "Myth of the Day: Functional Programmers Don’t Use Loops",
                 "url": "https://two-wrongs.com/myth-of-the-day-functional-programmers-dont-use-loops",
-                "date_added": "2020-08-05T16:30:52.531000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2020-08-05T16:30:52.531000Z"
             },
             {
                 "title": "So You Want to be a Functional Programmer (Part 1) | by Charles Scalfani | Medium",
                 "url": "https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536",
-                "date_added": "2020-08-05T16:49:50.760000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2020-08-05T16:49:50.760000Z"
             },
             {
                 "title": "Why Programmers Need Limits. Limits make for better Art, Design and… | by Charles Scalfani | Medium",
                 "url": "https://medium.com/@cscalfani/why-programmers-need-limits-3d96e1a0a6db",
-                "date_added": "2020-08-05T17:02:08.422000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2020-08-05T17:02:08.422000Z"
             },
             {
                 "title": "Paul Ford: What Is Code? | Bloomberg",
                 "url": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
-                "date_added": "2023-03-30T00:49:45.964000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-03-30T00:49:45.964000Z"
             },
             {
                 "title": "F*ck it: use React for your personal site if you want to - Ironeko",
                 "url": "https://ironeko.com/posts/f-ck-it-use-react-for-your-personal-site-if-you-want-to",
-                "date_added": "2023-02-06T13:48:33.683000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-02-06T13:48:33.683000Z"
             },
             {
                 "title": "Paul Ford: What Is Code? | Bloomberg",
                 "url": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#grabbag",
-                "date_added": "2023-04-12T20:13:20.304000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-04-12T20:13:20.304000Z"
             },
             {
                 "title": "Hosting my static sites with nginx",
                 "url": "https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/",
-                "date_added": "2023-04-27T17:53:08.554000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-04-27T17:53:08.554000Z"
             },
             {
                 "title": "Tailwind CSS origins",
                 "url": "https://adamwathan.me/css-utility-classes-and-separation-of-concerns/",
-                "date_added": "2023-04-27T18:37:47.470000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-04-27T18:37:47.470000Z"
             },
             {
                 "title": "Static site generators: Hugo vs Jekyll vs Gatsby vs 11ty",
                 "url": "https://tomhazledine.com/eleventy-static-site-generator/",
-                "date_added": "2023-05-17T16:09:02.244000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-05-17T16:09:02.244000Z"
             },
             {
                 "title": "Implementing SEO and Open Graph tags in Eleventy (11ty)",
                 "url": "https://iamjoona.com/blog/seo-tags-in-eleventy/",
-                "date_added": "2023-05-17T16:16:15.950000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-05-17T16:16:15.950000Z"
             },
             {
                 "title": "A talk: How To Find Things Online | v21",
                 "url": "https://v21.io/blog/how-to-find-things-online",
-                "date_added": "2023-06-06T18:54:31.642000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-06-06T18:54:31.642000Z"
             },
             {
                 "title": "https://www.ietf.org/rfc/rfc3514.txt",
                 "url": "https://www.ietf.org/rfc/rfc3514.txt",
-                "date_added": "2023-06-21T23:02:56.320000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-06-21T23:02:56.320000Z"
             },
             {
                 "title": "Interactive blog posts with no build step using Markdown and Lit | Andrew Jakubowicz",
                 "url": "https://andrewjakubowicz.me/posts/making-of-a-blog-post/",
-                "date_added": "2023-06-22T00:35:03.814000Z",
-                "last_modified": "2023-06-28T19:08:13.000000Z"
+                "date_added": "2023-06-22T00:35:03.814000Z"
             },
             {
                 "title": "Making \"LCD, Please\" | Development Logs by Lucas Pope",
                 "url": "https://dukope.com/devlogs/papers-please/lcdplease/",
-                "date_added": "2023-08-18T10:37:38.363000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-08-18T10:37:38.363000Z"
             },
             {
                 "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake",
                 "url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-                "date_added": "2023-08-22T16:25:54.196000Z",
-                "last_modified": "2023-10-16T12:58:12.000000Z"
+                "date_added": "2023-08-22T16:25:54.196000Z"
             },
             {
                 "title": "The reckless, infinite scope of web browsers",
                 "url": "https://drewdevault.com/2020/03/18/Reckless-limitless-scope",
-                "date_added": "2023-10-20T10:39:11.412000Z",
-                "last_modified": "2023-10-23T22:10:08.000000Z"
+                "date_added": "2023-10-20T10:39:11.412000Z"
             },
             {
                 "title": "Why I don't have analytics on my website",
                 "url": "https://ajenkins.me/post/analytics/",
-                "date_added": "2023-10-25T22:21:08.509000Z",
-                "last_modified": "2023-10-25T22:21:08.509000Z"
+                "date_added": "2023-10-25T22:21:08.509000Z"
             },
             {
                 "title": "The midwit home - DYNOMIGHT INTERNET NEWSLETTER",
                 "url": "https://dynomight.substack.com/p/midwit-home",
-                "date_added": "2023-10-12T17:31:55.193000Z",
-                "last_modified": "2023-10-30T23:30:24.100000Z"
+                "date_added": "2023-10-12T17:31:55.193000Z"
             },
             {
                 "title": "Hang on, PHP IS a static site generator! - Ross Wintle",
                 "url": "https://rosswintle.uk/2021/12/hang-on-php-is-a-static-site-generator/",
-                "date_added": "2023-11-25T13:07:22.900000Z",
-                "last_modified": "2023-11-25T13:07:22.900000Z"
+                "date_added": "2023-11-25T13:07:22.900000Z"
             },
             {
                 "title": "Why I love (and how I make) simple, static, minimal-tech websites - Ross Wintle",
                 "url": "https://rosswintle.uk/2022/08/why-i-love-and-how-i-make-simple-static-minimal-tech-websites/",
-                "date_added": "2023-11-25T13:10:37.119000Z",
-                "last_modified": "2023-11-25T13:10:37.119000Z"
+                "date_added": "2023-11-25T13:10:37.119000Z"
             },
             {
                 "title": "Reversing UK mobile rail tickets",
                 "url": "https://eta.st/2023/01/31/rail-tickets.html",
-                "date_added": "2023-12-06T12:41:51.555000Z",
-                "last_modified": "2023-12-06T12:41:51.555000Z"
+                "date_added": "2023-12-06T12:41:51.555000Z"
             },
             {
                 "title": "I made JSX for Lua (because I hate static sites) | Ben Visness",
                 "url": "https://bvisness.me/luax/",
-                "date_added": "2023-12-28T19:06:07.470000Z",
-                "last_modified": "2023-12-29T00:41:24.000000Z"
+                "date_added": "2023-12-28T19:06:07.470000Z"
             },
             {
                 "title": "Using computers more freely and safely",
                 "url": "https://akkartik.name/freewheeling/",
-                "date_added": "2024-01-10T23:33:35.771000Z",
-                "last_modified": "2024-01-10T23:33:35.771000Z"
+                "date_added": "2024-01-10T23:33:35.771000Z"
             },
             {
                 "title": "Making small games, which is fun in itself · Joys of Small Game Development",
                 "url": "https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html",
-                "date_added": "2024-01-11T00:03:05.123000Z",
-                "last_modified": "2024-01-11T00:03:05.123000Z"
+                "date_added": "2024-01-11T00:03:05.123000Z"
             },
             {
                 "title": "Stuffed Wombat - The Small Game",
                 "url": "https://stuffedwomb.at/the_small_game",
-                "date_added": "2024-01-11T00:03:11.378000Z",
-                "last_modified": "2024-01-11T00:03:11.378000Z"
+                "date_added": "2024-01-11T00:03:11.378000Z"
             },
             {
                 "title": "Programming Sucks",
                 "url": "http://www.stilldrinking.org/programming-sucks",
-                "date_added": "2024-01-27T23:51:10.108000Z",
-                "last_modified": "2024-01-28T11:39:17.000000Z"
+                "date_added": "2024-01-27T23:51:10.108000Z"
             },
             {
                 "title": "Making a PDF that’s larger than Germany – alexwlchan",
                 "url": "https://alexwlchan.net/2024/big-pdf/",
-                "date_added": "2024-02-01T00:19:58.930000Z",
-                "last_modified": "2024-02-01T00:19:58.930000Z"
+                "date_added": "2024-02-01T00:19:58.930000Z"
             },
             {
                 "title": "Make a Damn Website",
                 "url": "https://lmnt.me/blog/make-a-damn-website.html",
-                "date_added": "2024-02-06T17:00:50.199000Z",
-                "last_modified": "2024-02-06T18:39:43.000000Z"
+                "date_added": "2024-02-06T17:00:50.199000Z"
             },
             {
                 "title": "A dozen thoughts about AI | daverupert.com",
                 "url": "https://daverupert.com/2024/02/robo-barf/",
-                "date_added": "2024-02-16T13:54:11.875000Z",
-                "last_modified": "2024-02-16T17:18:23.000000Z"
+                "date_added": "2024-02-16T13:54:11.875000Z"
             },
             {
                 "title": "I worry our Copilot is leaving some passengers behind - Josh Collinsworth blog",
                 "url": "https://joshcollinsworth.com/blog/copilot",
-                "date_added": "2024-02-16T13:54:24.963000Z",
-                "last_modified": "2024-02-16T17:18:23.000000Z"
+                "date_added": "2024-02-16T13:54:24.963000Z"
             },
             {
                 "title": "A Deep Dive Into SVG Path Commands",
                 "url": "https://www.nan.fyi/svg-paths",
-                "date_added": "2024-02-18T22:48:15.022000Z",
-                "last_modified": "2024-02-18T22:48:15.022000Z"
+                "date_added": "2024-02-18T22:48:15.022000Z"
             },
             {
                 "title": "100 things you can do on your personal website | James' Coffee Blog",
                 "url": "https://jamesg.blog/2024/02/19/personal-website-ideas/",
-                "date_added": "2024-02-24T16:31:01.899000Z",
-                "last_modified": "2024-02-25T15:44:03.000000Z"
+                "date_added": "2024-02-24T16:31:01.899000Z"
             },
             {
                 "title": "What Is A Single-page Application?: HeydonWorks",
                 "url": "https://heydonworks.com/article/what-is-a-single-page-application/",
-                "date_added": "2024-02-27T09:41:42.120000Z",
-                "last_modified": "2024-02-27T18:26:01.000000Z"
+                "date_added": "2024-02-27T09:41:42.120000Z"
             },
             {
                 "title": "When to use target=\"_blank\" | CSS-Tricks - CSS-Tricks",
                 "url": "https://css-tricks.com/use-target_blank/",
-                "date_added": "2024-03-19T12:45:22.743000Z",
-                "last_modified": "2024-03-19T19:34:21.000000Z"
+                "date_added": "2024-03-19T12:45:22.743000Z"
             },
             {
                 "title": "I am not a supplier | Musings about software",
                 "url": "https://www.softwaremaxims.com/blog/not-a-supplier",
-                "date_added": "2024-03-31T23:05:37.647000Z",
-                "last_modified": "2024-03-31T23:05:37.647000Z"
+                "date_added": "2024-03-31T23:05:37.647000Z"
             },
             {
                 "title": "The Single File Philosophy",
                 "url": "https://single-file.netlify.app/",
-                "date_added": "2024-04-02T21:08:00.193000Z",
-                "last_modified": "2024-04-02T21:08:00.193000Z"
+                "date_added": "2024-04-02T21:08:00.193000Z"
             },
             {
                 "title": "So, do you actually want to write?",
                 "url": "https://artemis.sh/2024/06/19/do-you-really-want-to-write.html",
-                "date_added": "2024-06-24T16:22:19.428000Z",
-                "last_modified": "2024-06-26T12:57:09.000000Z"
+                "date_added": "2024-06-24T16:22:19.428000Z"
+            },
+            {
+                "title": "Being Raised by the Internet",
+                "url": "https://jimmyhmiller.github.io/raised",
+                "date_added": "2024-09-24T21:05:09.080000Z"
+            },
+            {
+                "title": "An app can be a home-cooked meal",
+                "url": "https://www.robinsloan.com/notes/home-cooked-app/",
+                "date_added": "2024-10-13T10:17:04.232000Z"
+            },
+            {
+                "title": "Pluralistic: You should be using an RSS reader (16 Oct 2024) – Pluralistic: Daily links from Cory Doctorow",
+                "url": "https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/",
+                "date_added": "2024-10-17T10:01:29.363000Z"
+            },
+            {
+                "title": "Building a website like it's 1999... in 2022 - localghost",
+                "url": "https://localghost.dev/blog/building-a-website-like-it-s-1999-in-2022/",
+                "date_added": "2024-10-17T13:02:07.449000Z"
+            },
+            {
+                "title": "The Big Pleroma and Fediverse FAQ Part 1 - Beginner Questions",
+                "url": "https://pleroma.social/blog/2021/01/13/the-big-pleroma-and-fediverse-faq/",
+                "date_added": "2024-10-23T15:12:57.385000Z"
             }
         ],
         "video playlists/channels": [
             {
                 "title": "The Secret Life of Machines Remastered - YouTube",
                 "url": "https://www.youtube.com/playlist?list=PLtaR0lZhSyAPLuoSbMA29s3Ry8ZUvKff3",
-                "date_added": "2023-11-12T21:02:49.740000Z",
-                "last_modified": "2023-11-12T21:02:49.740000Z"
+                "date_added": "2023-11-12T21:02:49.740000Z"
             },
             {
                 "title": "Pop Culture Detective - YouTube",
                 "url": "https://www.youtube.com/@PopCultureDetective/videos",
-                "date_added": "2023-11-12T22:16:49.042000Z",
-                "last_modified": "2023-11-12T22:18:02.889000Z"
+                "date_added": "2023-11-12T22:16:49.042000Z"
             },
             {
                 "title": "exurb1a - YouTube",
                 "url": "https://www.youtube.com/@Exurb1a/videos",
-                "date_added": "2023-11-12T22:17:27.595000Z",
-                "last_modified": "2023-11-12T22:18:23.429000Z"
+                "date_added": "2023-11-12T22:17:27.595000Z"
             },
             {
                 "title": "Captain Disillusion - YouTube",
                 "url": "https://www.youtube.com/@CaptainDisillusion/videos",
-                "date_added": "2023-11-12T22:16:58.921000Z",
-                "last_modified": "2023-11-12T22:18:04.283000Z"
+                "date_added": "2023-11-12T22:16:58.921000Z"
             },
             {
                 "title": "Steve Mould - YouTube",
                 "url": "https://www.youtube.com/@SteveMould",
-                "date_added": "2023-11-12T22:17:06.325000Z",
-                "last_modified": "2023-11-12T22:18:05.497000Z"
+                "date_added": "2023-11-12T22:17:06.325000Z"
             },
             {
                 "title": "Not Just Bikes - YouTube",
                 "url": "https://www.youtube.com/@NotJustBikes",
-                "date_added": "2023-11-12T22:17:20.587000Z",
-                "last_modified": "2023-11-12T22:18:07.474000Z"
+                "date_added": "2023-11-12T22:17:20.587000Z"
             },
             {
                 "title": "Dr Geoff Lindsey - YouTube",
                 "url": "https://www.youtube.com/@DrGeoffLindsey/videos",
-                "date_added": "2023-11-12T22:16:13.117000Z",
-                "last_modified": "2023-11-12T22:16:13.117000Z"
+                "date_added": "2023-11-12T22:16:13.117000Z"
             },
             {
                 "title": "Andrewism - YouTube",
                 "url": "https://www.youtube.com/@Andrewism/videos",
-                "date_added": "2023-11-12T22:16:33.104000Z",
-                "last_modified": "2023-11-12T22:16:33.104000Z"
+                "date_added": "2023-11-12T22:16:33.104000Z"
             },
             {
                 "title": "jan Usawi - YouTube",
                 "url": "https://www.youtube.com/@janusawi8794/videos",
-                "date_added": "2023-11-12T22:17:42.757000Z",
-                "last_modified": "2023-11-12T22:17:42.757000Z"
+                "date_added": "2023-11-12T22:17:42.757000Z"
             },
             {
                 "title": "suckerpinch - YouTube",
                 "url": "https://www.youtube.com/@tom7/videos",
-                "date_added": "2023-11-13T00:34:42.754000Z",
-                "last_modified": "2023-11-13T00:34:42.754000Z"
+                "date_added": "2023-11-13T00:34:42.754000Z"
             }
         ],
         "wordles": [
             {
                 "title": "Wordle - A daily word game",
                 "url": "https://www.powerlanguage.co.uk/wordle/",
-                "date_added": "2022-02-08T13:43:52.251000Z",
-                "last_modified": "2022-02-08T13:43:56.875000Z"
+                "date_added": "2022-02-08T13:43:52.251000Z"
             },
             {
                 "title": "Absurdle @ Things Of Interest",
                 "url": "https://qntm.org/files/absurdle/absurdle.html",
-                "date_added": "2022-02-08T13:44:15.388000Z",
-                "last_modified": "2022-02-08T13:44:15.388000Z"
+                "date_added": "2022-02-08T13:44:15.388000Z"
             },
             {
                 "title": "dordle by zaratustra",
                 "url": "https://zaratustra.itch.io/dordle",
-                "date_added": "2022-02-08T13:44:32.305000Z",
-                "last_modified": "2022-02-08T13:44:32.305000Z"
+                "date_added": "2022-02-08T13:44:32.305000Z"
             },
             {
                 "title": "Lewdle - A lewd daily word game",
                 "url": "https://www.lewdlegame.com/",
-                "date_added": "2022-02-08T13:44:41.015000Z",
-                "last_modified": "2022-02-08T13:44:41.015000Z"
+                "date_added": "2022-02-08T13:44:41.015000Z"
             },
             {
                 "title": "Primel",
                 "url": "https://converged.yt/primel/",
-                "date_added": "2022-02-08T13:44:49.113000Z",
-                "last_modified": "2022-02-08T13:44:49.113000Z"
+                "date_added": "2022-02-08T13:44:49.113000Z"
             },
             {
                 "title": "Sweardle - the 4 letter word guessing game",
                 "url": "https://sweardle.com/",
-                "date_added": "2022-02-08T13:44:59.815000Z",
-                "last_modified": "2022-02-08T13:44:59.815000Z"
+                "date_added": "2022-02-08T13:44:59.815000Z"
             },
             {
                 "title": "QUEERDLE",
                 "url": "https://queerdle.com/",
-                "date_added": "2022-02-08T13:45:17.982000Z",
-                "last_modified": "2022-02-08T13:45:17.982000Z"
+                "date_added": "2022-02-08T13:45:17.982000Z"
             },
             {
                 "title": "Taylordle",
                 "url": "https://www.taylordle.com/",
-                "date_added": "2022-02-08T13:45:31.253000Z",
-                "last_modified": "2022-02-08T13:45:31.253000Z"
+                "date_added": "2022-02-08T13:45:31.253000Z"
             },
             {
                 "title": "BTS Wordle",
                 "url": "https://bts-wordle.vercel.app/",
-                "date_added": "2022-02-08T13:45:40.817000Z",
-                "last_modified": "2022-02-08T13:45:40.817000Z"
+                "date_added": "2022-02-08T13:45:40.817000Z"
             },
             {
                 "title": "Wordle Unlimited - Play Wordle with Unlimited Words",
                 "url": "https://www.wordleunlimited.com/",
-                "date_added": "2022-02-08T13:45:49.797000Z",
-                "last_modified": "2022-02-08T13:45:49.797000Z"
+                "date_added": "2022-02-08T13:45:49.797000Z"
             },
             {
                 "title": "Searchdle: An SEO version of Wordle",
                 "url": "https://wtfseo.com/searchdle/",
-                "date_added": "2022-02-08T13:46:41.496000Z",
-                "last_modified": "2022-02-08T13:46:41.496000Z"
+                "date_added": "2022-02-08T13:46:41.496000Z"
             },
             {
                 "title": "Jewdle – a daily Jewish word game",
                 "url": "https://www.jewdle.app/",
-                "date_added": "2022-02-08T13:46:54.391000Z",
-                "last_modified": "2022-02-08T13:46:54.391000Z"
+                "date_added": "2022-02-08T13:46:54.391000Z"
             },
             {
                 "title": "Star Wordle",
                 "url": "https://www.starwordle.com/",
-                "date_added": "2022-02-08T13:47:02.921000Z",
-                "last_modified": "2022-02-08T13:47:02.921000Z"
+                "date_added": "2022-02-08T13:47:02.921000Z"
             },
             {
                 "title": "Worldle",
                 "url": "https://worldle.teuteuf.fr/",
-                "date_added": "2022-02-08T13:47:27.270000Z",
-                "last_modified": "2022-02-08T13:47:27.270000Z"
+                "date_added": "2022-02-08T13:47:27.270000Z"
             },
             {
                 "title": "Letterle",
                 "url": "https://edjefferson.com/letterle/",
-                "date_added": "2022-02-08T13:51:43.907000Z",
-                "last_modified": "2022-02-08T13:51:43.907000Z"
+                "date_added": "2022-02-08T13:51:43.907000Z"
             },
             {
                 "title": "Nerdle - the daily numbers game",
                 "url": "https://nerdlegame.com/",
-                "date_added": "2022-02-08T13:52:01.356000Z",
-                "last_modified": "2022-02-08T13:52:01.356000Z"
+                "date_added": "2022-02-08T13:52:01.356000Z"
             },
             {
                 "title": "Globle",
                 "url": "https://globle-game.com/",
-                "date_added": "2022-02-14T09:09:25.763000Z",
-                "last_modified": "2022-02-14T10:08:18.000000Z"
+                "date_added": "2022-02-14T09:09:25.763000Z"
             },
             {
                 "title": "Chessle",
                 "url": "https://jackli.gg/chessle/",
-                "date_added": "2022-02-16T11:41:41.925000Z",
-                "last_modified": "2022-02-17T20:06:12.000000Z"
+                "date_added": "2022-02-16T11:41:41.925000Z"
             },
             {
                 "title": "UC Dwordle",
                 "url": "https://ucdavis-life.github.io/",
-                "date_added": "2022-02-22T11:23:33.551000Z",
-                "last_modified": "2022-02-22T11:23:33.551000Z"
+                "date_added": "2022-02-22T11:23:33.551000Z"
             },
             {
                 "title": "Quordle",
                 "url": "https://www.quordle.com/#/",
-                "date_added": "2022-02-22T11:24:13.542000Z",
-                "last_modified": "2022-02-22T11:24:13.542000Z"
+                "date_added": "2022-02-22T11:24:13.542000Z"
             },
             {
                 "title": "Octordle",
                 "url": "https://octordle.com/?mode=daily",
-                "date_added": "2022-02-22T11:24:26.100000Z",
-                "last_modified": "2022-02-22T11:24:26.100000Z"
+                "date_added": "2022-02-22T11:24:26.100000Z"
             },
             {
                 "title": "sedecordle",
                 "url": "http://www.sedecordle.com/?mode=daily",
-                "date_added": "2022-02-22T11:24:43.747000Z",
-                "last_modified": "2022-02-22T11:24:43.747000Z"
+                "date_added": "2022-02-22T11:24:43.747000Z"
             },
             {
                 "title": "Semantle",
                 "url": "https://semantle.novalis.org/",
-                "date_added": "2022-02-22T11:43:37.241000Z",
-                "last_modified": "2022-02-22T11:43:37.241000Z"
+                "date_added": "2022-02-22T11:43:37.241000Z"
             },
             {
                 "title": "Durdle",
                 "url": "http://durdle.me/",
-                "date_added": "2022-02-27T02:52:46.493000Z",
-                "last_modified": "2022-02-27T12:27:20.000000Z"
+                "date_added": "2022-02-27T02:52:46.493000Z"
             },
             {
                 "title": "squirdle",
                 "url": "https://squirdle.fireblend.com/",
-                "date_added": "2022-02-28T17:29:05.340000Z",
-                "last_modified": "2022-02-28T21:11:15.000000Z"
+                "date_added": "2022-02-28T17:29:05.340000Z"
             },
             {
                 "title": "Heardle - Like Wordle, but for Music",
                 "url": "http://www.heardlepedia.com/",
-                "date_added": "2022-03-06T13:05:07.132000Z",
-                "last_modified": "2024-09-11T17:26:23.549000Z"
+                "date_added": "2022-03-06T13:05:07.132000Z"
             },
             {
                 "title": "Scholardle",
                 "url": "https://www.scholardle.com/",
-                "date_added": "2022-03-11T09:32:24.917000Z",
-                "last_modified": "2022-03-18T17:17:26.000000Z"
+                "date_added": "2022-03-11T09:32:24.917000Z"
             },
             {
                 "title": "Survivle",
                 "url": "https://lazyguyy.github.io/survivle/",
-                "date_added": "2022-03-14T14:28:44.074000Z",
-                "last_modified": "2022-03-18T17:17:26.000000Z"
+                "date_added": "2022-03-14T14:28:44.074000Z"
             },
             {
                 "title": "Brandle",
                 "url": "https://code-a-software.net/brandle/",
-                "date_added": "2022-03-15T16:16:13.279000Z",
-                "last_modified": "2022-03-18T17:17:26.000000Z"
+                "date_added": "2022-03-15T16:16:13.279000Z"
             },
             {
                 "title": "Squabble",
                 "url": "https://squabble.me/",
-                "date_added": "2022-03-16T14:30:18.038000Z",
-                "last_modified": "2022-03-18T17:17:26.000000Z"
+                "date_added": "2022-03-16T14:30:18.038000Z"
             },
             {
                 "title": "Qwordle",
                 "url": "https://qwordle.bhat.ca/",
-                "date_added": "2022-03-17T20:59:42.754000Z",
-                "last_modified": "2022-03-18T17:17:26.000000Z"
+                "date_added": "2022-03-17T20:59:42.754000Z"
             },
             {
                 "title": "Squardle - Wordle squared?",
                 "url": "https://fubargames.se/squardle/",
-                "date_added": "2022-03-18T16:39:33.988000Z",
-                "last_modified": "2022-03-18T17:17:26.000000Z"
+                "date_added": "2022-03-18T16:39:33.988000Z"
             },
             {
                 "title": "Adverswordle",
                 "url": "https://adverswordle.doteye.online/",
-                "date_added": "2022-03-22T10:58:43.427000Z",
-                "last_modified": "2022-03-22T11:17:38.000000Z"
+                "date_added": "2022-03-22T10:58:43.427000Z"
             },
             {
                 "title": "Emotle | Emotle",
                 "url": "https://emotle.com/",
-                "date_added": "2022-04-04T11:17:12.368000Z",
-                "last_modified": "2022-04-04T11:17:14.670000Z"
+                "date_added": "2022-04-04T11:17:12.368000Z"
             },
             {
                 "title": "Framed - The daily movie guessing game",
                 "url": "https://framed.wtf/",
-                "date_added": "2022-04-04T11:17:23.149000Z",
-                "last_modified": "2022-04-04T11:17:23.149000Z"
+                "date_added": "2022-04-04T11:17:23.149000Z"
             },
             {
                 "title": "Daily Home | Appraisir",
                 "url": "https://appraisir.com/Daily/",
-                "date_added": "2022-04-04T11:17:46.492000Z",
-                "last_modified": "2022-04-04T11:17:46.492000Z"
+                "date_added": "2022-04-04T11:17:46.492000Z"
             },
             {
                 "title": "Wheredle 🌎",
                 "url": "https://wheredle.xyz/",
-                "date_added": "2022-04-08T11:32:20.840000Z",
-                "last_modified": "2022-04-08T16:00:07.000000Z"
+                "date_added": "2022-04-08T11:32:20.840000Z"
             },
             {
                 "title": "Duotrigordle",
                 "url": "https://duotrigordle.com/",
-                "date_added": "2022-04-10T12:45:47.799000Z",
-                "last_modified": "2022-04-10T12:45:49.493000Z"
+                "date_added": "2022-04-10T12:45:47.799000Z"
             },
             {
                 "title": "Redactle - A daily puzzle game",
                 "url": "https://www.redactle.com/",
-                "date_added": "2022-04-15T21:39:11.394000Z",
-                "last_modified": "2022-04-15T23:55:02.000000Z"
+                "date_added": "2022-04-15T21:39:11.394000Z"
             },
             {
                 "title": "ESChallenge (Eurovision Heardle)",
                 "url": "https://eurosong.app/",
-                "date_added": "2022-04-21T19:30:00.931000Z",
-                "last_modified": "2022-04-21T19:30:02.651000Z"
+                "date_added": "2022-04-21T19:30:00.931000Z"
             },
             {
                 "title": "MURDLE! Solve a mystery every day!",
                 "url": "https://murdle.com/",
-                "date_added": "2022-11-18T22:51:11.874000Z",
-                "last_modified": "2022-11-18T22:51:16.912000Z"
+                "date_added": "2022-11-18T22:51:11.874000Z"
             },
             {
                 "title": "Pteredactle - Puzzle Game",
                 "url": "https://pteredactle.com/#Q159190",
-                "date_added": "2022-12-14T19:19:14.868000Z",
-                "last_modified": "2022-12-14T19:19:18.647000Z"
+                "date_added": "2022-12-14T19:19:14.868000Z"
             },
             {
                 "title": "Flaggle 🏁",
                 "url": "https://ducc.pythonanywhere.com/flaggle/",
-                "date_added": "2023-02-07T11:45:06.040000Z",
-                "last_modified": "2023-02-07T22:17:41.000000Z"
+                "date_added": "2023-02-07T11:45:06.040000Z"
             },
             {
                 "title": "Lirdle: One Lie Per Line",
                 "url": "http://lirdle.com/",
-                "date_added": "2023-03-06T17:50:36.091000Z",
-                "last_modified": "2023-03-14T20:46:35.000000Z"
+                "date_added": "2023-03-06T17:50:36.091000Z"
             },
             {
                 "title": "Waffle - daily word game",
                 "url": "https://wafflegame.net/",
-                "date_added": "2023-03-06T19:07:08.888000Z",
-                "last_modified": "2023-04-17T01:19:44.784000Z"
+                "date_added": "2023-03-06T19:07:08.888000Z"
             },
             {
                 "title": "Hexordle",
                 "url": "https://hexordle.com/",
-                "date_added": "2023-03-06T19:09:26.474000Z",
-                "last_modified": "2023-03-14T20:46:35.000000Z"
+                "date_added": "2023-03-06T19:09:26.474000Z"
             },
             {
                 "title": "OEC Tradle",
                 "url": "https://oec.world/en/tradle/",
-                "date_added": "2023-04-10T10:19:28.376000Z",
-                "last_modified": "2023-04-17T01:20:13.856000Z"
+                "date_added": "2023-04-10T10:19:28.376000Z"
             },
             {
                 "title": "GeoScienceWord",
                 "url": "https://word.geoscienceworld.org/",
-                "date_added": "2023-05-15T11:52:01.928000Z",
-                "last_modified": "2023-05-16T14:47:14.000000Z"
+                "date_added": "2023-05-15T11:52:01.928000Z"
             },
             {
                 "title": "Jumblie | A word search game",
                 "url": "https://jumblie.com/",
-                "date_added": "2023-10-31T11:59:08.053000Z",
-                "last_modified": "2023-10-31T11:59:08.053000Z"
+                "date_added": "2023-10-31T11:59:08.053000Z"
             },
             {
                 "title": "Smegle | A Red Dwarf screenshot guessing game",
                 "url": "https://smegle.ganymede.tv/",
-                "date_added": "2023-11-17T01:45:42.927000Z",
-                "last_modified": "2023-11-17T22:23:13.000000Z"
+                "date_added": "2023-11-17T01:45:42.927000Z"
             },
             {
                 "title": "WordlePress - a Wordle-style guessing game for WordPress developers",
                 "url": "https://wordlepress.com/",
-                "date_added": "2023-11-25T13:09:40.872000Z",
-                "last_modified": "2023-11-25T13:09:40.872000Z"
+                "date_added": "2023-11-25T13:09:40.872000Z"
             },
             {
                 "title": "Waffle",
                 "url": "https://wafflegame.net/daily",
-                "date_added": "2024-01-01T14:23:51.743000Z",
-                "last_modified": "2024-01-01T14:53:49.000000Z"
+                "date_added": "2024-01-01T14:23:51.743000Z"
             },
             {
                 "title": "Quordle",
                 "url": "https://www.merriam-webster.com/games/quordle/#/",
-                "date_added": "2024-01-01T14:24:28.327000Z",
-                "last_modified": "2024-01-01T14:53:49.000000Z"
+                "date_added": "2024-01-01T14:24:28.327000Z"
             },
             {
                 "title": "Octordle",
                 "url": "https://www.britannica.com/games/octordle/daily",
-                "date_added": "2024-01-01T14:24:36.753000Z",
-                "last_modified": "2024-01-01T14:53:49.000000Z"
+                "date_added": "2024-01-01T14:24:36.753000Z"
             },
             {
                 "title": "Guess The Game",
                 "url": "https://guessthe.game/",
-                "date_added": "2024-02-11T21:40:19.265000Z",
-                "last_modified": "2024-02-11T21:40:19.265000Z"
+                "date_added": "2024-02-11T21:40:19.265000Z"
             },
             {
                 "title": "Guess The Book - Your daily book guessing puzzle!",
                 "url": "https://guessthebook.app/",
-                "date_added": "2024-02-11T21:41:07.970000Z",
-                "last_modified": "2024-02-11T21:41:07.970000Z"
+                "date_added": "2024-02-11T21:41:07.970000Z"
             },
             {
                 "title": "Bandle - Guess the song played by the band",
                 "url": "https://bandle.app/",
-                "date_added": "2024-02-12T18:44:52.505000Z",
-                "last_modified": "2024-02-12T22:02:48.000000Z"
+                "date_added": "2024-02-12T18:44:52.505000Z"
             }
         ],
         "mobile games": [
             {
                 "title": "80 Days – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.inkle.eightydays",
-                "date_added": "2023-11-01T23:42:40.948000Z",
-                "last_modified": "2023-11-04T22:55:56.087000Z"
+                "date_added": "2023-11-01T23:42:40.948000Z"
             },
             {
                 "title": "Slice & Dice – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.com.tann.dice",
-                "date_added": "2023-11-01T23:42:16.222000Z",
-                "last_modified": "2023-11-04T22:56:03.258000Z"
+                "date_added": "2023-11-01T23:42:16.222000Z"
             },
             {
                 "title": "Spaceteam – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam",
-                "date_added": "2023-11-04T22:55:18.023000Z",
-                "last_modified": "2023-11-04T22:55:59.484000Z"
+                "date_added": "2023-11-04T22:55:18.023000Z"
             },
             {
                 "title": "The Battle of Polytopia – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=air.com.midjiwan.polytopia",
-                "date_added": "2023-11-01T23:43:08.591000Z",
-                "last_modified": "2023-11-04T22:56:10.285000Z"
+                "date_added": "2023-11-01T23:43:08.591000Z"
             },
             {
                 "title": "Mindustry – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=io.anuke.mindustry",
-                "date_added": "2023-11-01T23:43:23.889000Z",
-                "last_modified": "2023-11-04T22:55:57.974000Z"
+                "date_added": "2023-11-01T23:43:23.889000Z"
             },
             {
                 "title": "into the breach – Android Apps on Google Play",
                 "url": "https://play.google.com/store/search?q=into+the+breach&c=apps",
-                "date_added": "2023-11-04T22:55:44.344000Z",
-                "last_modified": "2023-11-04T22:56:13.910000Z"
+                "date_added": "2023-11-04T22:55:44.344000Z"
             },
             {
                 "title": "chwazi – Android Apps on Google Play",
                 "url": "https://play.google.com/store/search?q=chwazi&c=apps",
-                "date_added": "2023-11-04T22:54:34.697000Z",
-                "last_modified": "2023-11-04T22:56:06.277000Z"
+                "date_added": "2023-11-04T22:54:34.697000Z"
             },
             {
                 "title": "Reigns – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.devolver.reigns",
-                "date_added": "2023-11-01T23:41:10.360000Z",
-                "last_modified": "2023-11-04T22:56:08.045000Z"
+                "date_added": "2023-11-01T23:41:10.360000Z"
             },
             {
                 "title": "Out There: Ω Edition – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.miclos.google.games.outthere",
-                "date_added": "2023-11-04T22:55:00.644000Z",
-                "last_modified": "2023-11-04T22:56:01.536000Z"
+                "date_added": "2023-11-04T22:55:00.644000Z"
             },
             {
                 "title": "Space Trader – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.brucelet.spacetrader",
-                "date_added": "2023-11-01T23:43:38.606000Z",
-                "last_modified": "2023-11-01T23:43:38.606000Z"
+                "date_added": "2023-11-01T23:43:38.606000Z"
             }
         ]
     }
