@@ -1,5 +1,5 @@
 {
-    "last_modified": "2024-10-29T15:15:14.767456Z",
+    "last_modified": "2025-01-01T18:19:43.633679Z",
     "bookmarks": {
         "TOP 10 personal websites/blogs": [
             {
@@ -145,6 +145,16 @@
                 "title": "Directory | An IndieWeb Webring",
                 "url": "https://xn--sr8hvo.ws/directory",
                 "date_added": "2024-10-17T13:00:58.345000Z"
+            },
+            {
+                "title": "Webrings",
+                "url": "https://brisray.com/utils/webrings.htm",
+                "date_added": "2024-10-29T15:20:13.134000Z"
+            },
+            {
+                "title": "Webring",
+                "url": "https://webring.xxiivv.com/",
+                "date_added": "2024-10-30T23:25:23.600000Z"
             }
         ],
         "personal websites (with blog)": [
@@ -642,6 +652,71 @@
                 "title": "Blog . Ahmad Alfy",
                 "url": "https://alfy.blog/",
                 "date_added": "2024-10-25T11:11:23.411000Z"
+            },
+            {
+                "title": "MGD Blog",
+                "url": "https://blog.mgdproductions.com/",
+                "date_added": "2024-10-30T11:38:46.229000Z"
+            },
+            {
+                "title": "muffinlabs.com -- the website of Colin Mitchell",
+                "url": "https://muffinlabs.com/",
+                "date_added": "2024-10-30T11:44:44.682000Z"
+            },
+            {
+                "title": "Paloma Kop",
+                "url": "https://palomakop.tv/",
+                "date_added": "2024-10-31T00:04:01.635000Z"
+            },
+            {
+                "title": "L.M. Sacasas | Technology, Culture, and Ethics",
+                "url": "https://thefrailestthing.com/",
+                "date_added": "2024-10-31T00:25:14.790000Z"
+            },
+            {
+                "title": "Foxocube's Blog – A blog written by Foxocube…",
+                "url": "https://www.foxocube.xyz/",
+                "date_added": "2024-11-04T12:32:44.317000Z"
+            },
+            {
+                "title": "dozens",
+                "url": "http://tilde.town/~dozens/",
+                "date_added": "2024-11-17T22:24:57.627000Z"
+            },
+            {
+                "title": "quanttype",
+                "url": "https://quanttype.net/",
+                "date_added": "2024-11-18T09:14:59.764000Z"
+            },
+            {
+                "title": "Lev Lazinskiy",
+                "url": "https://levlaz.org/",
+                "date_added": "2024-11-20T23:46:12.493000Z"
+            },
+            {
+                "title": "alex wennerberg",
+                "url": "https://alexwennerberg.com/",
+                "date_added": "2024-11-21T19:47:33.476000Z"
+            },
+            {
+                "title": "Dive in tommi.space",
+                "url": "https://tommi.space/",
+                "date_added": "2024-11-26T18:32:58.970000Z"
+            },
+            {
+                "title": "Danny van Kooten",
+                "url": "https://www.dannyvankooten.com/",
+                "date_added": "2024-12-11T13:08:26.358000Z"
+            },
+            {
+                "title": "blog",
+                "url": "http://www.0atman.com/",
+                "date_added": "2024-12-11T21:23:06.888000Z"
+            },
+            {
+                "title": "eieio.games",
+                "url": "https://eieio.games/",
+                "date_added": "2024-12-16T23:41:09.917000Z"
             }
         ],
         "personal websites (without blog)": [
@@ -794,6 +869,56 @@
                 "title": "n0madz profile",
                 "url": "https://n0madz.omg.lol/",
                 "date_added": "2024-10-23T13:28:35.237000Z"
+            },
+            {
+                "title": "Some miscellany about Bristol, my fathers time in the Royal Navy, Optical Illusions, Postcards, Terre Haute, Indiana and other things I'm interested in",
+                "url": "https://brisray.com/",
+                "date_added": "2024-10-29T15:30:03.355000Z"
+            },
+            {
+                "title": "Icehouseoffroad - Home Page",
+                "url": "https://ihor4x4.com/",
+                "date_added": "2024-10-29T15:38:41.026000Z"
+            },
+            {
+                "title": "XXIIVV — devine lu linvega",
+                "url": "https://wiki.xxiivv.com/site/devine_lu_linvega.html",
+                "date_added": "2024-10-30T23:32:41.880000Z"
+            },
+            {
+                "title": "Hi I'm Ayliean + I love maths",
+                "url": "https://ayliean.com/",
+                "date_added": "2024-11-05T14:43:58.951000Z"
+            },
+            {
+                "title": "Nat Zimmermann",
+                "url": "https://nat.bike/",
+                "date_added": "2024-11-07T15:43:59.154000Z"
+            },
+            {
+                "title": "Pera's Homepage!",
+                "url": "http://transfur.science/f191/",
+                "date_added": "2024-11-17T14:41:13.751000Z"
+            },
+            {
+                "title": "aghdom",
+                "url": "https://aghdom.eu/",
+                "date_added": "2024-11-18T00:16:46.056000Z"
+            },
+            {
+                "title": "Home | Universalities",
+                "url": "http://universalities.com/",
+                "date_added": "2024-12-11T17:14:12.041000Z"
+            },
+            {
+                "title": "Nikola Nenov Motion Graphics",
+                "url": "https://www.nnenov.eu/",
+                "date_added": "2024-12-12T14:26:54.144000Z"
+            },
+            {
+                "title": "Evaisa",
+                "url": "https://evaisa.dev/",
+                "date_added": "2024-12-20T13:43:27.307000Z"
             }
         ],
         "interesting websites": [
@@ -1021,6 +1146,26 @@
                 "title": "Encyclopedia of Organ Stops",
                 "url": "http://www.organstops.org/",
                 "date_added": "2024-10-23T12:49:39.077000Z"
+            },
+            {
+                "title": "VotesforSchools - Personal Development, SMSC & PSHE",
+                "url": "https://www.votesforschools.com/",
+                "date_added": "2024-10-29T22:41:22.975000Z"
+            },
+            {
+                "title": "Housing law reports and analysis - Nearly Legal: Housing Law News and Comment",
+                "url": "https://nearlylegal.co.uk/",
+                "date_added": "2024-10-31T13:05:08.412000Z"
+            },
+            {
+                "title": "LOW←TECH MAGAZINE",
+                "url": "https://solar.lowtechmagazine.com/",
+                "date_added": "2024-11-22T10:48:03.535000Z"
+            },
+            {
+                "title": "Reknit Revolution – reworking our wardrobes, stitch by stitch",
+                "url": "https://reknitrevolution.org/",
+                "date_added": "2024-12-04T21:27:42.500000Z"
             }
         ],
         "Articles (random)": [
@@ -1258,6 +1403,11 @@
                 "title": "Cory Doctorow: Moneylike – Locus Online",
                 "url": "https://locusmag.com/2022/09/cory-doctorow-moneylike/",
                 "date_added": "2024-10-12T21:45:09.558000Z"
+            },
+            {
+                "title": "A London start-up tried to solve Sheffield's housing crisis. So far, they've made it worse",
+                "url": "https://www.sheffieldtribune.co.uk/p/a-london-start-up-tried-to-solve",
+                "date_added": "2024-11-17T16:33:32.325000Z"
             }
         ],
         "Articles (programming)": [
@@ -1470,6 +1620,26 @@
                 "title": "The Big Pleroma and Fediverse FAQ Part 1 - Beginner Questions",
                 "url": "https://pleroma.social/blog/2021/01/13/the-big-pleroma-and-fediverse-faq/",
                 "date_added": "2024-10-23T15:12:57.385000Z"
+            },
+            {
+                "title": "against the dark forest",
+                "url": "https://www.wrecka.ge/against-the-dark-forest/",
+                "date_added": "2024-11-22T21:07:34.323000Z"
+            },
+            {
+                "title": "Carlos Fenollosa - Blog",
+                "url": "https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html",
+                "date_added": "2024-11-24T12:11:15.175000Z"
+            },
+            {
+                "title": "Breaking \"DRM\" in Polish trains - media.ccc.de",
+                "url": "https://media.ccc.de/v/37c3-12142-breaking_drm_in_polish_trains#t=113",
+                "date_added": "2024-12-12T11:38:02.319000Z"
+            },
+            {
+                "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines — Smashing Magazine",
+                "url": "https://www.smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
+                "date_added": "2024-12-14T12:38:21.401000Z"
             }
         ],
         "video playlists/channels": [
