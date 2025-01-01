@@ -15,7 +15,7 @@ In Firefox,
 Run [`read_bookmarks.py`](./read_bookmarks.py) with the bookmark folders you would like exported. For me, that's
 
 ```bash
-py .\read_bookmarks.py -f "TOP 10 personal websites/blogs" "other bookmarks lists" "webrings" "personal websites (with blog)" "personal websites (without blog)" "interesting websites" "Articles (random)" "Articles (programming)" "video playlists/channels" "wordles" "mobile games"
+py read_bookmarks.py -f "TOP 10 personal websites/blogs" "other bookmarks lists" "webrings" "personal websites (with blog)" "personal websites (without blog)" "interesting websites" "Articles (random)" "Articles (programming)" "video playlists/channels" "wordles" "mobile games"
 ```
 
 You now have `bookmarks.json` which can be used wherever it needs to be used.
@@ -25,7 +25,10 @@ For an example, see [example.html](./example.html).
 To make it even more one-liner you could also create a bash script like
 
 ```bash
+# windows
 cp C:\Users\<user>\AppData\Roaming\Mozilla\Firefox\Profiles\<id>.default\places.sqlite places.sqlite
+# linux
+cp /home/alifeee/.mozilla/firefox/xzad36j5.default-release/places.sqlite places.sqlite
 py .\read_bookmarks.py ...
 ```
 
