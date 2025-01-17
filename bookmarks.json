@@ -1,5 +1,5 @@
 {
-    "last_modified": "2025-01-17T16:44:40.370211Z",
+    "last_modified": "2025-01-17T18:08:57.597587Z",
     "bookmarks": {
         "TOP 10 personal websites/blogs": [
             {
@@ -734,19 +734,24 @@
                 "date_added": "2025-01-13T10:23:34.256000Z"
             },
             {
-                "title": "Robin Rendle",
-                "url": "https://robinrendle.com/",
-                "date_added": "2025-01-16T17:27:04.610000Z"
-            },
-            {
                 "title": "The Universe of Discourse",
                 "url": "https://blog.plover.com/",
                 "date_added": "2025-01-17T10:10:56.952000Z"
             },
             {
+                "title": "Robin Rendle",
+                "url": "https://robinrendle.com/",
+                "date_added": "2025-01-16T17:27:04.610000Z"
+            },
+            {
                 "title": "Harry Wood homepage",
                 "url": "https://harrywood.co.uk/",
                 "date_added": "2025-01-14T19:31:00.181000Z"
+            },
+            {
+                "title": "danmcquillan.org",
+                "url": "https://danmcquillan.org/",
+                "date_added": "2025-01-17T17:38:40.638000Z"
             }
         ],
         "personal websites (without blog)": [
@@ -1453,6 +1458,11 @@
                 "title": "A London start-up tried to solve Sheffield's housing crisis. So far, they've made it worse",
                 "url": "https://www.sheffieldtribune.co.uk/p/a-london-start-up-tried-to-solve",
                 "date_added": "2024-11-17T16:33:32.325000Z"
+            },
+            {
+                "title": "Labour's AI Action Plan - a gift to the far right | Computer Weekly",
+                "url": "https://www.computerweekly.com/opinion/Labours-AI-Action-Plan-a-gift-to-the-far-right",
+                "date_added": "2025-01-17T17:36:53.463000Z"
             }
         ],
         "Articles (programming)": [
@@ -2086,6 +2096,38 @@
                 "title": "Space Trader – Apps on Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.brucelet.spacetrader",
                 "date_added": "2023-11-01T23:43:38.606000Z"
+            }
+        ],
+        "multiplayer browser games": [
+            {
+                "title": "Hanabi",
+                "url": "https://hanab.cards/",
+                "date_added": "2025-01-17T16:53:47.762000Z"
+            },
+            {
+                "title": "Redactle | Wikipedia based Puzzle Game",
+                "url": "https://redactle.net/",
+                "date_added": "2024-01-15T17:46:48.642000Z"
+            },
+            {
+                "title": "Semantle",
+                "url": "https://semantle.com/",
+                "date_added": "2024-01-15T17:46:52.113000Z"
+            },
+            {
+                "title": "Cine2Nerdle",
+                "url": "https://www.cinenerdle2.app/battle",
+                "date_added": "2023-12-19T20:17:01.677000Z"
+            },
+            {
+                "title": "JKLM.FUN Party games for PC & Smartphone. BombParty, Master of the Grid, PopSauce & co.",
+                "url": "https://jklm.fun/",
+                "date_added": "2021-07-23T02:31:08.614000Z"
+            },
+            {
+                "title": "Yahtzee online with friends",
+                "url": "https://buddyboardgames.com/yahtzee",
+                "date_added": "2025-01-17T16:48:56.774000Z"
             }
         ]
     }
