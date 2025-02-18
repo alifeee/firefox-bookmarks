@@ -1,5 +1,5 @@
 {
-    "last_modified": "2025-01-17T18:08:57.597587Z",
+    "last_modified": "2025-02-18T15:12:36.143377Z",
     "bookmarks": {
         "TOP 10 personal websites/blogs": [
             {
@@ -752,6 +752,61 @@
                 "title": "danmcquillan.org",
                 "url": "https://danmcquillan.org/",
                 "date_added": "2025-01-17T17:38:40.638000Z"
+            },
+            {
+                "title": "ReedyBear's Blog",
+                "url": "https://reedybear.bearblog.dev/",
+                "date_added": "2025-01-18T11:22:24.623000Z"
+            },
+            {
+                "title": "satyarth.me",
+                "url": "https://satyarth.me/",
+                "date_added": "2025-01-19T10:03:26.105000Z"
+            },
+            {
+                "title": "Diary of a Volunteer Sustrans Ranger | Sustrans 'Breckland and Waveney Valley' Volunteer Group",
+                "url": "https://thetfordranger.wordpress.com/",
+                "date_added": "2025-01-22T16:03:42.486000Z"
+            },
+            {
+                "title": "Lukasz Baldyga",
+                "url": "https://rijn.pl/",
+                "date_added": "2025-01-29T12:28:46.765000Z"
+            },
+            {
+                "title": "On digital experiences, Open Source, Open Web, Drupal, and our digital future | Dries Buytaert",
+                "url": "https://dri.es/",
+                "date_added": "2025-01-31T12:07:34.583000Z"
+            },
+            {
+                "title": "Mags' Homepage!",
+                "url": "https://mags.omg.lol/",
+                "date_added": "2025-02-01T15:02:13.484000Z"
+            },
+            {
+                "title": "Nuxill's Corner",
+                "url": "https://nuxill.neocities.org/",
+                "date_added": "2025-02-07T14:54:18.744000Z"
+            },
+            {
+                "title": "Tiny Subversions | Darius Kazemi",
+                "url": "https://tinysubversions.com/",
+                "date_added": "2025-02-07T15:36:42.830000Z"
+            },
+            {
+                "title": "Miracle Scave",
+                "url": "https://die-ratte.de/",
+                "date_added": "2025-02-08T12:36:50.943000Z"
+            },
+            {
+                "title": "Daniel Stenberg",
+                "url": "https://daniel.haxx.se/",
+                "date_added": "2025-02-11T13:33:10.980000Z"
+            },
+            {
+                "title": "tim.sh",
+                "url": "https://timsh.org/",
+                "date_added": "2025-02-13T11:49:29.042000Z"
             }
         ],
         "personal websites (without blog)": [
@@ -969,6 +1024,26 @@
                 "title": "Hello, I am Jonty",
                 "url": "https://jonty.co.uk/",
                 "date_added": "2025-01-16T15:03:11.191000Z"
+            },
+            {
+                "title": "Robert Whittaker's OpenStreetMap Stuff",
+                "url": "https://osm.mathmos.net/",
+                "date_added": "2025-01-22T15:33:40.037000Z"
+            },
+            {
+                "title": "Robert Whittaker",
+                "url": "https://robert.mathmos.net/",
+                "date_added": "2025-01-22T15:34:17.022000Z"
+            },
+            {
+                "title": "Matthias Heil's homepage",
+                "url": "https://www.matthias-heil.co.uk/new_webpage/index.html",
+                "date_added": "2025-01-22T15:49:15.783000Z"
+            },
+            {
+                "title": "lzr.pw",
+                "url": "https://laserbat.pw/",
+                "date_added": "2025-01-31T18:10:59.007000Z"
             }
         ],
         "interesting websites": [
@@ -1216,6 +1291,16 @@
                 "title": "Reknit Revolution – reworking our wardrobes, stitch by stitch",
                 "url": "https://reknitrevolution.org/",
                 "date_added": "2024-12-04T21:27:42.500000Z"
+            },
+            {
+                "title": "Trans-Europe-Planner",
+                "url": "https://trans-europe-planner.eu/",
+                "date_added": "2025-01-31T16:05:32.434000Z"
+            },
+            {
+                "title": "Disengineering Society",
+                "url": "http://dis.engineering/",
+                "date_added": "2025-02-03T16:29:45.462000Z"
             }
         ],
         "Articles (random)": [
@@ -1463,6 +1548,26 @@
                 "title": "Labour's AI Action Plan - a gift to the far right | Computer Weekly",
                 "url": "https://www.computerweekly.com/opinion/Labours-AI-Action-Plan-a-gift-to-the-far-right",
                 "date_added": "2025-01-17T17:36:53.463000Z"
+            },
+            {
+                "title": "On cats – Going Medieval",
+                "url": "https://going-medieval.com/2023/05/16/on-cats/",
+                "date_added": "2025-02-03T17:56:02.593000Z"
+            },
+            {
+                "title": "Why is everything binary? (Webbed Briefs)",
+                "url": "https://briefs.video/videos/why-is-everything-binary/",
+                "date_added": "2025-02-06T20:33:18.954000Z"
+            },
+            {
+                "title": "On the Phenomenon of Bullshit Jobs: A Work Rant - David Graeber",
+                "url": "https://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/",
+                "date_added": "2025-02-08T10:32:46.282000Z"
+            },
+            {
+                "title": "I Tasted Honda's Spicy Rodent-Repelling Tape - by Liz Cook",
+                "url": "https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling",
+                "date_added": "2025-02-18T15:03:01.861000Z"
             }
         ],
         "Articles (programming)": [
@@ -1705,6 +1810,21 @@
                 "title": "How to Make a Damn Website",
                 "url": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
                 "date_added": "2025-01-11T21:36:00.042000Z"
+            },
+            {
+                "title": "HTML for People",
+                "url": "https://www.htmlforpeople.com/",
+                "date_added": "2025-02-01T15:01:36.208000Z"
+            },
+            {
+                "title": "slash pages",
+                "url": "https://slashpages.net/",
+                "date_added": "2025-02-14T11:53:45.351000Z"
+            },
+            {
+                "title": "INTRODUCTION",
+                "url": "https://thebullshitmachines.com/",
+                "date_added": "2025-02-07T15:19:14.372000Z"
             }
         ],
         "video playlists/channels": [
